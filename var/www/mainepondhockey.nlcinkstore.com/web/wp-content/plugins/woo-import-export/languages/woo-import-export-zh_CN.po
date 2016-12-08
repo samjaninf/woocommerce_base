@@ -1,0 +1,1216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Import Export v1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-06 11:10:57+0000\n"
+"Last-Translator: admin <admin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: PEOPLE'S REPUBLIC OF CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: core/classes/wpie_import_export.class.php:171
+#@ woo-import-export
+msgid "License Deactivated Successfully."
+msgstr "许可证取消激活成功。"
+
+#: core/classes/wpie_import_export.class.php:175
+#: core/classes/wpie_import_export.class.php:347
+#@ woo-import-export
+msgid "Invalid Request Data."
+msgstr "无效的请求数据。"
+
+#: core/classes/wpie_import_export.class.php:335
+#: core/views/wpie_settings.php:28
+#@ woo-import-export
+msgid "License Activated Successfully."
+msgstr "许可证激活成功。"
+
+#: core/classes/wpie_import_export.class.php:339
+#@ woo-import-export
+msgid "License already activated on other site."
+msgstr "授权许可已经在其他网站上激活。"
+
+#: core/classes/wpie_import_export.class.php:473
+#@ woo-import-export
+msgid "Import Export"
+msgstr "进出口"
+
+#: core/classes/wpie_import_export.class.php:473
+#@ woo-import-export
+msgid "Woo Imp Exp"
+msgstr "Woo Imp Exp"
+
+#: core/classes/wpie_import_export.class.php:475
+#: core/views/wpie_export.php:176
+#: core/views/wpie_export.php:317
+#: core/views/wpie_export.php:437
+#: core/views/wpie_export.php:523
+#: core/views/wpie_export.php:623
+#@ woo-import-export
+msgid "Export"
+msgstr "出口"
+
+#: core/classes/wpie_import_export.class.php:477
+#: core/views/wpie_import.php:67
+#: core/views/wpie_import.php:103
+#: core/views/wpie_import.php:136
+#: core/views/wpie_import.php:169
+#: core/views/wpie_import.php:202
+#@ woo-import-export
+msgid "Import"
+msgstr "输入"
+
+#: core/classes/wpie_import_export.class.php:481
+#: core/views/wpie_export_log.php:10
+#@ woo-import-export
+msgid "Export Log"
+msgstr "导出日志"
+
+#: core/classes/wpie_import_export.class.php:483
+#: core/views/wpie_settings.php:24
+#@ woo-import-export
+msgid "Settings"
+msgstr "设置"
+
+#: core/classes/wpie_import_export.class.php:521
+#@ woo-import-export
+msgid "manage woocommerce export."
+msgstr "管理woocommerce出口。"
+
+#: core/classes/wpie_import_export.class.php:522
+#@ woo-import-export
+msgid "manage woocommerce import."
+msgstr "管理woocommerce进口。"
+
+#: core/classes/wpie_import_export.class.php:523
+#@ woo-import-export
+msgid "manage woocommerce import/export."
+msgstr "管理woocommerce导入/导出。"
+
+#: core/classes/wpie_import_export.class.php:525
+#@ woo-import-export
+msgid "manage woocommerce import/export settings."
+msgstr "管理woocommerce导入/导出设置。"
+
+#: core/classes/wpie_coupon.class.php:561
+#: core/classes/wpie_order.class.php:989
+#: core/classes/wpie_product.class.php:1121
+#: core/classes/wpie_product_cat.class.php:496
+#: core/classes/wpie_user.class.php:587
+#@ woo-import-export
+msgid "File Not Uploaded. Please check file size for exceeds the limit."
+msgstr "文件上载。请检查文件大小超过限制。"
+
+#: core/classes/wpie_order.class.php:1027
+#@ woo-import-export
+msgid "Order Imported successfully."
+msgstr "订购成功导入。"
+
+#: core/classes/wpie_coupon.class.php:609
+#: core/classes/wpie_order.class.php:1031
+#: core/classes/wpie_product.class.php:1169
+#: core/classes/wpie_product_cat.class.php:544
+#: core/classes/wpie_user.class.php:635
+#@ woo-import-export
+msgid "Could not open file."
+msgstr "无法打开文件。"
+
+#: core/classes/wpie_order.class.php:1099
+#, php-format
+#@ woo-import-export
+msgid "Order #%s already Exist."
+msgstr "订单＃％s 已经存在。"
+
+#: core/classes/wpie_order.class.php:1408
+#@ woo-import-export
+msgid "Backordered"
+msgstr "延期交货"
+
+#: core/classes/wpie_order.class.php:1530
+#@ woo-import-export
+msgid "Created/Existing Orders"
+msgstr "创建/现有订单"
+
+#: core/classes/wpie_product.class.php:1081
+#: core/views/wpie_export_log.php:13
+#: core/views/wpie_scheduled_export.php:61
+#@ woo-import-export
+msgid "Successfully Deleted."
+msgstr "成功删除。"
+
+#: core/classes/wpie_product.class.php:1489
+#: core/classes/wpie_product.class.php:1963
+#: core/classes/wpie_product_cat.class.php:890
+#, php-format
+#@ woo-import-export
+msgid "A valid file extension wasn't found in %s. Extension found was %s. Allowed extensions are: %s."
+msgstr "有效的文件扩展名中未找到 %s。扩展发现是 %s。允许的扩展名是：％s 的。"
+
+#: core/classes/wpie_product.class.php:1506
+#: core/classes/wpie_product.class.php:1977
+#: core/classes/wpie_product_cat.class.php:907
+#, php-format
+#@ woo-import-export
+msgid "%s encountered while attempting to download %s"
+msgstr "％s，而尝试下载 ％s 的遭遇"
+
+#: core/classes/wpie_product.class.php:1539
+#: core/classes/wpie_product.class.php:2010
+#: core/classes/wpie_product_cat.class.php:940
+#, php-format
+#@ woo-import-export
+msgid "HTTP status %s encountered while attempting to download %s"
+msgstr "同时尝试下载 ％s 的HTTP状态 ％s 的遭遇"
+
+#: core/classes/wpie_product.class.php:1543
+#: core/classes/wpie_product.class.php:2014
+#: core/classes/wpie_product_cat.class.php:944
+#, php-format
+#@ woo-import-export
+msgid "Looks like %s is off and %s is not enabled. No images were imported."
+msgstr "貌似 ％s 是关闭并 ％s 没有启用。没有图像导入。"
+
+#: core/classes/wpie_product.class.php:1550
+#: core/classes/wpie_product.class.php:2021
+#: core/classes/wpie_product_cat.class.php:951
+#, php-format
+#@ woo-import-export
+msgid "Couldn't download file %s."
+msgstr "无法下载文件 ％s 。"
+
+#: core/classes/wpie_product.class.php:1602
+#, php-format
+#@ woo-import-export
+msgid "Skipping import of duplicate image %s."
+msgstr "跳过重复的图像 ％s 的进口。"
+
+#: core/classes/wpie_product.class.php:1610
+#: core/classes/wpie_product_cat.class.php:971
+#, php-format
+#@ woo-import-export
+msgid "Couldn't find local file %s."
+msgstr "找不到本地文件 ％s 。"
+
+#: core/classes/wpie_import_export.class.php:343
+#@ woo-import-export
+msgid "Invalid Purchase code."
+msgstr "无效申购代码。"
+
+#: core/classes/wpie_product.class.php:2094
+#@ woo-import-export
+msgid "Created/Updated Products"
+msgstr "创建/更新产品"
+
+#: core/views/wpie_export.php:64
+#: core/views/wpie_export.php:219
+#: core/views/wpie_export.php:445
+#@ woo-import-export
+msgid "Filter By Product Category"
+msgstr "按产品分类"
+
+#: core/views/wpie_export.php:66
+#: core/views/wpie_export.php:221
+#: core/views/wpie_export.php:447
+#: core/views/wpie_import.php:45
+#@ woo-import-export
+msgid "Select Product Category"
+msgstr "选择产品类别"
+
+#: core/views/wpie_export.php:68
+#: core/views/wpie_export.php:79
+#: core/views/wpie_export.php:223
+#: core/views/wpie_export.php:234
+#: core/views/wpie_export.php:333
+#: core/views/wpie_export.php:449
+#: core/views/wpie_export.php:536
+#: core/views/wpie_import.php:47
+#@ woo-import-export
+msgid "ID"
+msgstr "ID"
+
+#: core/views/wpie_export.php:71
+#: core/views/wpie_export.php:452
+#@ woo-import-export
+msgid "Default : All Categories."
+msgstr "默认值：所有类别。"
+
+#: core/views/wpie_export.php:75
+#: core/views/wpie_export.php:230
+#@ woo-import-export
+msgid "Filter By Product ID / Name"
+msgstr "按产品编号/名称"
+
+#: core/views/wpie_export.php:77
+#: core/views/wpie_export.php:232
+#@ woo-import-export
+msgid "Select Product"
+msgstr "选择产品"
+
+#: core/views/wpie_export.php:82
+#@ woo-import-export
+msgid "Default : All Products."
+msgstr "默认值：所有产品。"
+
+#: core/views/wpie_export.php:86
+#@ woo-import-export
+msgid "Filter By Product Author Name / Email"
+msgstr "按产品作者名称/电子邮件"
+
+#: core/views/wpie_export.php:88
+#@ woo-import-export
+msgid "Select Product Author"
+msgstr "选择产品作者"
+
+#: core/views/wpie_export.php:93
+#@ woo-import-export
+msgid "Default : All Authors."
+msgstr "默认值：所有的著者。"
+
+#: core/views/wpie_export.php:97
+#: core/views/wpie_export.php:358
+#: core/views/wpie_export.php:456
+#: core/views/wpie_export.php:544
+#@ woo-import-export
+msgid "Limit Records"
+msgstr "极限纪录"
+
+#: core/views/wpie_export.php:99
+#: core/views/wpie_export.php:360
+#: core/views/wpie_export.php:458
+#: core/views/wpie_export.php:546
+#@ woo-import-export
+msgid "Enter Limit Records"
+msgstr "进入限制的记录"
+
+#: core/views/wpie_export.php:100
+#: core/views/wpie_export.php:361
+#: core/views/wpie_export.php:459
+#: core/views/wpie_export.php:547
+#@ woo-import-export
+msgid "Default : All Records."
+msgstr "默认值：所有记录。"
+
+#: core/views/wpie_export.php:104
+#: core/views/wpie_export.php:365
+#: core/views/wpie_export.php:463
+#: core/views/wpie_export.php:551
+#@ woo-import-export
+msgid "Offset Records"
+msgstr "偏移记录"
+
+#: core/views/wpie_export.php:106
+#: core/views/wpie_export.php:126
+#: core/views/wpie_export.php:267
+#: core/views/wpie_export.php:367
+#: core/views/wpie_export.php:387
+#: core/views/wpie_export.php:465
+#: core/views/wpie_export.php:473
+#: core/views/wpie_export.php:553
+#: core/views/wpie_export.php:573
+#@ woo-import-export
+msgid "Enter Offset Records"
+msgstr "进入初始记录"
+
+#: core/views/wpie_export.php:107
+#: core/views/wpie_export.php:368
+#: core/views/wpie_export.php:466
+#: core/views/wpie_export.php:554
+#@ woo-import-export
+msgid "Default : 0."
+msgstr "默认值：0。"
+
+#: core/views/wpie_export.php:107
+#: core/views/wpie_export.php:368
+#: core/views/wpie_export.php:466
+#: core/views/wpie_export.php:554
+#@ woo-import-export
+msgid "Note : Fetch Records after XX Records."
+msgstr "注：XX记录后提取记录。"
+
+#: core/views/wpie_export.php:111
+#: core/views/wpie_export.php:252
+#: core/views/wpie_export.php:372
+#: core/views/wpie_export.php:558
+#@ woo-import-export
+msgid "Filter By Date"
+msgstr "过滤器按日期"
+
+#: core/views/wpie_export.php:114
+#: core/views/wpie_export.php:255
+#: core/views/wpie_export.php:375
+#: core/views/wpie_export.php:561
+#@ woo-import-export
+msgid "Start Date"
+msgstr "开始日期"
+
+#: core/views/wpie_export.php:115
+#: core/views/wpie_export.php:119
+#: core/views/wpie_export.php:256
+#: core/views/wpie_export.php:260
+#: core/views/wpie_export.php:376
+#: core/views/wpie_export.php:380
+#: core/views/wpie_export.php:562
+#: core/views/wpie_export.php:566
+#@ woo-import-export
+msgid "Date Format"
+msgstr "日期格式"
+
+#: core/views/wpie_export.php:118
+#: core/views/wpie_export.php:259
+#: core/views/wpie_export.php:379
+#: core/views/wpie_export.php:565
+#@ woo-import-export
+msgid "End Date"
+msgstr "结束日期"
+
+#: core/views/wpie_export.php:175
+#: core/views/wpie_export.php:316
+#: core/views/wpie_export.php:436
+#: core/views/wpie_export.php:522
+#: core/views/wpie_export.php:622
+#@ woo-import-export
+msgid "Preview"
+msgstr "预习"
+
+#: core/views/wpie_export.php:184
+#@ woo-import-export
+msgid "Filter By Order Status"
+msgstr "过滤依据订单状态"
+
+#: core/views/wpie_export.php:186
+#@ woo-import-export
+msgid "Select Order Status"
+msgstr "选择订单状态"
+
+#: core/views/wpie_export.php:215
+#@ woo-import-export
+msgid "Default : All Status"
+msgstr "默认值：所有状态"
+
+#: core/views/wpie_export.php:226
+#@ woo-import-export
+msgid "Default : All Category."
+msgstr "默认值：所有类别。"
+
+#: core/views/wpie_export.php:237
+#@ woo-import-export
+msgid "Default : All Product."
+msgstr "默认值：全部产品。"
+
+#: core/views/wpie_export.php:241
+#@ woo-import-export
+msgid "Filter By Order Id"
+msgstr "过滤方式订单标识"
+
+#: core/views/wpie_export.php:243
+#@ woo-import-export
+msgid "Select Order ID"
+msgstr "选择订单ID"
+
+#: core/views/wpie_export.php:245
+#@ woo-import-export
+msgid "Order ID :"
+msgstr "订单号："
+
+#: core/views/wpie_export.php:248
+#@ woo-import-export
+msgid "Default : All Order ID."
+msgstr "默认值：全部订单ID。"
+
+#: core/views/wpie_export.php:634
+#: core/views/wpie_export_log.php:65
+#: core/views/wpie_import.php:212
+#: core/views/wpie_scheduled_export.php:214
+#: core/views/wpie_settings.php:253
+#@ woo-import-export
+msgid "Documentation"
+msgstr "文件"
+
+#: core/views/wpie_export.php:634
+#: core/views/wpie_export_log.php:65
+#: core/views/wpie_import.php:212
+#: core/views/wpie_scheduled_export.php:214
+#: core/views/wpie_settings.php:253
+#@ woo-import-export
+msgid "Support"
+msgstr "支撑"
+
+#: core/views/wpie_export_log.php:18
+#: core/views/wpie_export_log.php:49
+#@ woo-import-export
+msgid "File Type"
+msgstr "文件类型"
+
+#: core/views/wpie_export_log.php:19
+#: core/views/wpie_export_log.php:50
+#@ woo-import-export
+msgid "File Name"
+msgstr "文件名"
+
+#: core/views/wpie_export_log.php:21
+#: core/views/wpie_export_log.php:52
+#@ woo-import-export
+msgid "Date"
+msgstr "迄今"
+
+#: core/views/wpie_export_log.php:22
+#: core/views/wpie_export_log.php:53
+#@ woo-import-export
+msgid "Action"
+msgstr "行为"
+
+#: core/views/wpie_export_log.php:34
+#@ woo-import-export
+msgid "Download"
+msgstr "下载"
+
+#: core/views/wpie_export_log.php:34
+#@ woo-import-export
+msgid "Delete"
+msgstr "删"
+
+#: core/views/wpie_export_log.php:40
+#@ woo-import-export
+msgid "No Records found."
+msgstr "没有找到记录。"
+
+#: core/views/wpie_import.php:20
+#@ woo-import-export
+msgid "Product Imported successfully."
+msgstr "产品成功导入。"
+
+#: core/views/wpie_import.php:29
+#: core/views/wpie_import.php:73
+#: core/views/wpie_import.php:109
+#: core/views/wpie_import.php:142
+#: core/views/wpie_import.php:175
+#@ woo-import-export
+msgid "Select File to Import"
+msgstr "选择要导入的文件"
+
+#: core/views/wpie_import.php:32
+#: core/views/wpie_import.php:76
+#: core/views/wpie_import.php:112
+#: core/views/wpie_import.php:145
+#: core/views/wpie_import.php:178
+#@ woo-import-export
+msgid "Note : Select only this plugin exported file."
+msgstr "注：只选择这个插件导出的文件。"
+
+#: core/views/wpie_import.php:36
+#: core/views/wpie_import.php:80
+#: core/views/wpie_import.php:116
+#: core/views/wpie_import.php:149
+#: core/views/wpie_import.php:182
+#@ woo-import-export
+msgid "Enter URL to Import"
+msgstr "Enter URL to Import"
+
+#: core/views/wpie_import.php:38
+#: core/views/wpie_import.php:82
+#: core/views/wpie_import.php:118
+#: core/views/wpie_import.php:151
+#: core/views/wpie_import.php:184
+#@ woo-import-export
+msgid "Enter URL"
+msgstr "输入网址"
+
+#: core/views/wpie_import.php:39
+#: core/views/wpie_import.php:83
+#: core/views/wpie_import.php:119
+#: core/views/wpie_import.php:152
+#: core/views/wpie_import.php:185
+#@ woo-import-export
+msgid "Note : Leave blank if upload file."
+msgstr "注：保留空白，如果上传文件。"
+
+#: core/views/wpie_import.php:43
+#@ woo-import-export
+msgid "Select Category for Product"
+msgstr "对于产品选择类别"
+
+#: core/views/wpie_import.php:50
+#@ woo-import-export
+msgid "Note : Category for new product imported."
+msgstr "注：类别进口的新产品。"
+
+#: core/views/wpie_import.php:56
+#@ woo-import-export
+msgid "Select Product Create"
+msgstr "选择产品创建"
+
+#: core/views/wpie_import.php:99
+#@ woo-import-export
+msgid "Note : Product SKU or ID must be same for import and export both side."
+msgstr "注：产品SKU或ID必须是相同的进口和出口两侧。"
+
+#: core/views/wpie_settings.php:30
+#@ woo-import-export
+msgid "Invalid Request."
+msgstr "无效的请求。"
+
+#: core/views/wpie_settings.php:42
+#: core/views/wpie_settings.php:81
+#@ woo-import-export
+msgid "Product License"
+msgstr "产品许可证"
+
+#: core/views/wpie_settings.php:47
+#: core/views/wpie_settings.php:48
+#@ woo-import-export
+msgid "Customer Name"
+msgstr "客户名字"
+
+#: core/views/wpie_settings.php:53
+#: core/views/wpie_settings.php:54
+#@ woo-import-export
+msgid "Customer Email"
+msgstr "客户电子邮件"
+
+#: core/views/wpie_settings.php:59
+#: core/views/wpie_settings.php:60
+#@ woo-import-export
+msgid "Purchase Code"
+msgstr "申购代码"
+
+#: core/views/wpie_settings.php:65
+#@ woo-import-export
+msgid "Domain Name"
+msgstr "域名"
+
+#: core/views/wpie_settings.php:72
+#@ woo-import-export
+msgid "Activate"
+msgstr "激活"
+
+#: core/views/wpie_settings.php:85
+#@ woo-import-export
+msgid "License Status"
+msgstr "许可证状态"
+
+#: core/views/wpie_settings.php:87
+#@ woo-import-export
+msgid "Active"
+msgstr "主动"
+
+#: core/views/wpie_settings.php:93
+#@ woo-import-export
+msgid "Deactivate"
+msgstr "关闭"
+
+#: core/classes/wpie_product.class.php:1242
+#, php-format
+#@ woo-import-export
+msgid "Product #%s already Exist."
+msgstr "产品编号％s已经存在。"
+
+#: core/views/wpie_import.php:57
+#@ woo-import-export
+msgid "Skip Product if Exist."
+msgstr "跳过产品，如果存在。"
+
+#: core/views/wpie_import.php:58
+#@ woo-import-export
+msgid "Create New Product and ignore if Exist."
+msgstr "创建新的产品，如果存在，不容忽视。"
+
+#: core/views/wpie_import.php:59
+#@ woo-import-export
+msgid "Update Product if Exist."
+msgstr "更新产品是否存在。"
+
+#: core/views/wpie_import.php:89
+#@ woo-import-export
+msgid "Select order create option"
+msgstr "选择秩序创造选项"
+
+#: core/views/wpie_import.php:90
+#@ woo-import-export
+msgid "Skip Order if Exist."
+msgstr "跳过命令，如果存在。"
+
+#: core/views/wpie_import.php:91
+#@ woo-import-export
+msgid "Create New Order and ignore if Exist."
+msgstr "创建新订单，如果存在，不容忽视。"
+
+#: core/views/wpie_import.php:92
+#@ woo-import-export
+msgid "Update Order if Exist."
+msgstr "更新命令，如果存在。"
+
+#: core/views/wpie_import.php:95
+#@ woo-import-export
+msgid "Note : Imported order is created, updated or skip if already exist."
+msgstr "注：进口订单被创建，更新或跳过，如果已经存在。"
+
+#: core/views/wpie_import.php:87
+#@ woo-import-export
+msgid "Order Create / Update / Skip"
+msgstr "订单创建/更新/跳过"
+
+#: core/views/wpie_import.php:54
+#@ woo-import-export
+msgid "Product Create / Update / Skip"
+msgstr "产品创建/更新/跳过"
+
+#: core/views/wpie_import.php:62
+#@ woo-import-export
+msgid "Note : Imported product is skip, updated or created if already exist."
+msgstr "注：进口产品是跳跃，更新或创建的，如果已经存在。"
+
+#: core/classes/wpie_import_export.class.php:479
+#@ woo-import-export
+msgid "Manage Scheduled"
+msgstr "管理计划"
+
+#: core/classes/wpie_import_export.class.php:524
+#@ woo-import-export
+msgid "manage scheduled export."
+msgstr "管理计划出口。"
+
+#: core/classes/wpie_coupon.class.php:527
+#: core/classes/wpie_order.class.php:1715
+#: core/classes/wpie_product.class.php:2271
+#: core/classes/wpie_product_cat.class.php:462
+#: core/classes/wpie_user.class.php:260
+#: core/views/wpie_settings.php:29
+#@ woo-import-export
+msgid "Changes Saved Successfully."
+msgstr "更改保存成功。"
+
+#: core/classes/wpie_scheduled.class.php:43
+#@ woo-import-export
+msgid "30 minutes"
+msgstr "30分钟"
+
+#: core/classes/wpie_scheduled.class.php:47
+#@ woo-import-export
+msgid "Once Weekly"
+msgstr "每周一次"
+
+#: core/classes/wpie_user.class.php:631
+#@ woo-import-export
+msgid "User Imported successfully."
+msgstr "用户成功导入。"
+
+#: core/classes/wpie_user.class.php:680
+#: core/classes/wpie_user.class.php:712
+#, php-format
+#@ woo-import-export
+msgid "User #%s %s already Exist."
+msgstr "用户 #%s ％s 已经存在。"
+
+#: core/views/wpie_export.php:60
+#@ woo-import-export
+msgid "Export Data Successfully Scheduled."
+msgstr "导出数据成功计划。"
+
+#: core/views/wpie_export.php:124
+#: core/views/wpie_export.php:126
+#: core/views/wpie_export.php:265
+#: core/views/wpie_export.php:267
+#: core/views/wpie_export.php:385
+#: core/views/wpie_export.php:387
+#: core/views/wpie_export.php:471
+#: core/views/wpie_export.php:473
+#: core/views/wpie_export.php:571
+#: core/views/wpie_export.php:573
+#: core/views/wpie_scheduled_export.php:58
+#@ woo-import-export
+msgid "Scheduled Export"
+msgstr "计划导出"
+
+#: core/views/wpie_export.php:130
+#: core/views/wpie_export.php:271
+#: core/views/wpie_export.php:391
+#: core/views/wpie_export.php:477
+#: core/views/wpie_export.php:577
+#@ woo-import-export
+msgid "Export Interval"
+msgstr "导出区间"
+
+#: core/views/wpie_export.php:132
+#: core/views/wpie_export.php:273
+#: core/views/wpie_export.php:393
+#: core/views/wpie_export.php:479
+#: core/views/wpie_export.php:579
+#@ woo-import-export
+msgid "Select Interval"
+msgstr "选择时间间隔"
+
+#: core/views/wpie_export.php:140
+#: core/views/wpie_export.php:281
+#: core/views/wpie_export.php:401
+#: core/views/wpie_export.php:487
+#: core/views/wpie_export.php:587
+#: core/views/wpie_scheduled_export.php:69
+#: core/views/wpie_scheduled_export.php:98
+#: core/views/wpie_scheduled_export.php:128
+#: core/views/wpie_scheduled_export.php:158
+#: core/views/wpie_scheduled_export.php:188
+#@ woo-import-export
+msgid "Send E-mail"
+msgstr "发电子邮件"
+
+#: core/views/wpie_export.php:143
+#: core/views/wpie_export.php:284
+#: core/views/wpie_export.php:404
+#: core/views/wpie_export.php:490
+#: core/views/wpie_export.php:590
+#@ woo-import-export
+msgid "Send E-mail with attachment."
+msgstr "发送电子邮件和附件。"
+
+#: core/views/wpie_export.php:149
+#: core/views/wpie_export.php:151
+#: core/views/wpie_export.php:290
+#: core/views/wpie_export.php:292
+#: core/views/wpie_export.php:410
+#: core/views/wpie_export.php:412
+#: core/views/wpie_export.php:496
+#: core/views/wpie_export.php:498
+#: core/views/wpie_export.php:596
+#: core/views/wpie_export.php:598
+#@ woo-import-export
+msgid "Enter Email Recipient(s)"
+msgstr "输入电子邮件收件人（S）"
+
+#: core/views/wpie_export.php:156
+#: core/views/wpie_export.php:158
+#: core/views/wpie_export.php:297
+#: core/views/wpie_export.php:299
+#: core/views/wpie_export.php:417
+#: core/views/wpie_export.php:419
+#: core/views/wpie_export.php:503
+#: core/views/wpie_export.php:505
+#: core/views/wpie_export.php:603
+#: core/views/wpie_export.php:605
+#@ woo-import-export
+msgid "Enter Email Subject"
+msgstr "输入电子邮件主题"
+
+#: core/views/wpie_export.php:162
+#: core/views/wpie_export.php:164
+#: core/views/wpie_export.php:303
+#: core/views/wpie_export.php:305
+#: core/views/wpie_export.php:423
+#: core/views/wpie_export.php:425
+#: core/views/wpie_export.php:509
+#: core/views/wpie_export.php:511
+#: core/views/wpie_export.php:609
+#: core/views/wpie_export.php:611
+#@ woo-import-export
+msgid "Enter Email message"
+msgstr "输入电子邮件消息"
+
+#: core/views/wpie_export.php:177
+#: core/views/wpie_export.php:319
+#: core/views/wpie_export.php:438
+#: core/views/wpie_export.php:524
+#: core/views/wpie_export.php:624
+#@ woo-import-export
+msgid "Save Scheduled"
+msgstr "拯救计划"
+
+#: core/views/wpie_export.php:327
+#@ woo-import-export
+msgid "Filter By User ID / Username / Email"
+msgstr "筛选通过用户ID/用户名/电子邮件"
+
+#: core/views/wpie_export.php:329
+#@ woo-import-export
+msgid "Select User"
+msgstr "选择用户"
+
+#: core/views/wpie_export.php:337
+#@ woo-import-export
+msgid "Default : All Users."
+msgstr "默认值：所有用户。"
+
+#: core/views/wpie_export.php:341
+#@ woo-import-export
+msgid "Filter By User Role"
+msgstr "筛选通过用户角色"
+
+#: core/views/wpie_export.php:343
+#@ woo-import-export
+msgid "Select User Role"
+msgstr "选择用户角色"
+
+#: core/views/wpie_export.php:347
+#@ woo-import-export
+msgid "Default : All User Roles."
+msgstr "默认值：所有用户角色。"
+
+#: core/views/wpie_export_log.php:20
+#: core/views/wpie_export_log.php:51
+#@ woo-import-export
+msgid "Export Data"
+msgstr "导出数据"
+
+#: core/views/wpie_import.php:123
+#@ woo-import-export
+msgid "User Create / Update / Skip"
+msgstr "用户创建/更新/跳过"
+
+#: core/views/wpie_import.php:125
+#@ woo-import-export
+msgid "Select user create option"
+msgstr "选择用户创建选项"
+
+#: core/views/wpie_import.php:126
+#@ woo-import-export
+msgid "Skip User if Exist."
+msgstr "跳过用户如果存在。"
+
+#: core/views/wpie_import.php:128
+#@ woo-import-export
+msgid "Update User if Exist."
+msgstr "更新用户，如果存在。"
+
+#: core/views/wpie_import.php:131
+#@ woo-import-export
+msgid "Note : Imported user is created, updated or skip if already exist."
+msgstr "注：导入的用户被创建，更新或跳过，如果已经存在。"
+
+#: core/views/wpie_scheduled_export.php:62
+#@ woo-import-export
+msgid "Product Scheduled Export"
+msgstr "产品计划导出"
+
+#: core/views/wpie_scheduled_export.php:67
+#: core/views/wpie_scheduled_export.php:96
+#: core/views/wpie_scheduled_export.php:126
+#: core/views/wpie_scheduled_export.php:156
+#: core/views/wpie_scheduled_export.php:186
+#@ woo-import-export
+msgid "Scheduled ID"
+msgstr "计划编号"
+
+#: core/views/wpie_scheduled_export.php:68
+#: core/views/wpie_scheduled_export.php:97
+#: core/views/wpie_scheduled_export.php:127
+#: core/views/wpie_scheduled_export.php:157
+#: core/views/wpie_scheduled_export.php:187
+#@ woo-import-export
+msgid "Recurrence Time"
+msgstr "回归时间"
+
+#: core/views/wpie_scheduled_export.php:70
+#: core/views/wpie_scheduled_export.php:99
+#: core/views/wpie_scheduled_export.php:129
+#: core/views/wpie_scheduled_export.php:159
+#: core/views/wpie_scheduled_export.php:189
+#@ woo-import-export
+msgid "Recipients"
+msgstr "收件人"
+
+#: core/views/wpie_scheduled_export.php:71
+#: core/views/wpie_scheduled_export.php:100
+#: core/views/wpie_scheduled_export.php:130
+#: core/views/wpie_scheduled_export.php:160
+#: core/views/wpie_scheduled_export.php:190
+#@ woo-import-export
+msgid "Next event"
+msgstr "下一个事件"
+
+#: core/views/wpie_scheduled_export.php:72
+#: core/views/wpie_scheduled_export.php:101
+#: core/views/wpie_scheduled_export.php:131
+#: core/views/wpie_scheduled_export.php:161
+#: core/views/wpie_scheduled_export.php:191
+#@ woo-import-export
+msgid "Actions"
+msgstr "行动"
+
+#: core/views/wpie_scheduled_export.php:81
+#: core/views/wpie_scheduled_export.php:110
+#: core/views/wpie_scheduled_export.php:140
+#: core/views/wpie_scheduled_export.php:170
+#: core/views/wpie_scheduled_export.php:200
+#@ woo-import-export
+msgid "Yes"
+msgstr "是"
+
+#: core/views/wpie_scheduled_export.php:81
+#: core/views/wpie_scheduled_export.php:110
+#: core/views/wpie_scheduled_export.php:140
+#: core/views/wpie_scheduled_export.php:170
+#: core/views/wpie_scheduled_export.php:200
+#@ woo-import-export
+msgid "No"
+msgstr "没有"
+
+#: core/views/wpie_scheduled_export.php:91
+#@ woo-import-export
+msgid "Order Scheduled Export"
+msgstr "令计划导出"
+
+#: core/views/wpie_scheduled_export.php:121
+#@ woo-import-export
+msgid "User Scheduled Export"
+msgstr "用户计划导出"
+
+#: core/views/wpie_settings.php:102
+#@ woo-import-export
+msgid "Product Fields"
+msgstr "产品领域"
+
+#: core/views/wpie_settings.php:123
+#: core/views/wpie_settings.php:152
+#: core/views/wpie_settings.php:181
+#: core/views/wpie_settings.php:211
+#: core/views/wpie_settings.php:241
+#@ woo-import-export
+msgid "Save"
+msgstr "保存"
+
+#: core/views/wpie_settings.php:132
+#@ woo-import-export
+msgid "Order Fields"
+msgstr "订单字段"
+
+#: core/views/wpie_settings.php:161
+#@ woo-import-export
+msgid "User Fields"
+msgstr "用户字段"
+
+#: core/classes/wpie_product_cat.class.php:616
+#, php-format
+#@ woo-import-export
+msgid "Product Category #%d %s already Exist."
+msgstr "产品类别 #%d %s 已经存在。产品类别＃％D％s已经存在。"
+
+#: core/classes/wpie_scheduled.class.php:39
+#@ woo-import-export
+msgid "2 minutes"
+msgstr "2分钟"
+
+#: core/views/wpie_export.php:38
+#: core/views/wpie_import.php:12
+#@ woo-import-export
+msgid "Products"
+msgstr "产品展示"
+
+#: core/views/wpie_export.php:42
+#: core/views/wpie_import.php:13
+#@ woo-import-export
+msgid "Orders"
+msgstr "订单"
+
+#: core/views/wpie_export.php:46
+#: core/views/wpie_import.php:14
+#@ woo-import-export
+msgid "Users"
+msgstr "用户"
+
+#: core/views/wpie_export.php:50
+#: core/views/wpie_import.php:15
+#@ woo-import-export
+msgid "Product Categories"
+msgstr "产品分类"
+
+#: core/views/wpie_export.php:64
+#: core/views/wpie_export.php:219
+#: core/views/wpie_export.php:445
+#@ woo-import-export
+msgid "Total Categories"
+msgstr "总分类"
+
+#: core/views/wpie_export.php:68
+#: core/views/wpie_export.php:75
+#: core/views/wpie_export.php:223
+#: core/views/wpie_export.php:230
+#: core/views/wpie_export.php:449
+#@ woo-import-export
+msgid "Total Products"
+msgstr "产品总数"
+
+#: core/views/wpie_export.php:86
+#@ woo-import-export
+msgid "Total Authors"
+msgstr "总作者"
+
+#: core/views/wpie_export.php:97
+#: core/views/wpie_export.php:456
+#: core/views/wpie_export.php:544
+#@ woo-import-export
+msgid "Total Records"
+msgstr "总记录"
+
+#: core/views/wpie_export.php:184
+#@ woo-import-export
+msgid "Total Status"
+msgstr "总状态"
+
+#: core/views/wpie_export.php:241
+#@ woo-import-export
+msgid "Total Order"
+msgstr "总订单"
+
+#: core/views/wpie_export.php:327
+#: core/views/wpie_export.php:358
+#@ woo-import-export
+msgid "Total Users"
+msgstr "总用户数"
+
+#: core/views/wpie_export.php:341
+#@ woo-import-export
+msgid "Total Roles"
+msgstr "总的作用"
+
+#: core/views/wpie_import.php:156
+#@ woo-import-export
+msgid "Product Category Update / Skip"
+msgstr "产品类别更新/跳过"
+
+#: core/views/wpie_import.php:158
+#@ woo-import-export
+msgid "Select Product Category Create"
+msgstr "选择产品类别创建"
+
+#: core/views/wpie_import.php:159
+#@ woo-import-export
+msgid "Skip Product Category if Exist."
+msgstr "跳过产品类别，如果存在。"
+
+#: core/views/wpie_import.php:160
+#@ woo-import-export
+msgid "Create New Product Category and ignore if Exist."
+msgstr "创建新的产品类别，如果存在，不容忽视。"
+
+#: core/views/wpie_import.php:161
+#@ woo-import-export
+msgid "Update Product Category if Exist."
+msgstr "更新产品类别，如果存在。"
+
+#: core/views/wpie_import.php:164
+#@ woo-import-export
+msgid "Note : Imported product category is skip or updated if already exist."
+msgstr "注：进口产品类别是跳过或更新，如果已经存在。"
+
+#: core/views/wpie_scheduled_export.php:151
+#@ woo-import-export
+msgid "Product Category Scheduled Export"
+msgstr "产品类别计划导出"
+
+#: core/views/wpie_settings.php:44
+#@ woo-import-export
+msgid "A valid license key entitles you to support and enable automatic upgrades."
+msgstr "有效的许可证密钥授权您支持并启用自动升级。"
+
+#: core/views/wpie_settings.php:190
+#@ woo-import-export
+msgid "Product Category Fields"
+msgstr "产品类别字段"
+
+#: core/classes/wpie_product_cat.class.php:540
+#@ woo-import-export
+msgid "Product Categories Imported successfully."
+msgstr "产品分类成功导入。"
+
+#: core/classes/wpie_coupon.class.php:605
+#@ woo-import-export
+msgid "Coupons Imported successfully."
+msgstr "优惠券成功导入。"
+
+#: core/classes/wpie_coupon.class.php:659
+#, php-format
+#@ woo-import-export
+msgid "Coupon Code %s already Exist."
+msgstr "优惠券代码 %s 已经存在。"
+
+#: core/views/wpie_export.php:54
+#: core/views/wpie_import.php:16
+#@ woo-import-export
+msgid "Coupons"
+msgstr "优惠券"
+
+#: core/views/wpie_export.php:532
+#@ woo-import-export
+msgid "Filter By Coupons ID / Code"
+msgstr "筛选通过优惠券ID/代码"
+
+#: core/views/wpie_export.php:532
+#@ woo-import-export
+msgid "Total Coupons"
+msgstr "总优惠券"
+
+#: core/views/wpie_export.php:534
+#@ woo-import-export
+msgid "Select Coupons"
+msgstr "选择优惠券"
+
+#: core/views/wpie_export.php:539
+#@ woo-import-export
+msgid "Default : All Coupons."
+msgstr "默认值：所有优惠券。"
+
+#: core/views/wpie_import.php:189
+#@ woo-import-export
+msgid "Coupon Update / Skip"
+msgstr "优惠券更新/跳过"
+
+#: core/views/wpie_import.php:191
+#@ woo-import-export
+msgid "Select Coupon Create"
+msgstr "选择优惠券创建"
+
+#: core/views/wpie_import.php:192
+#@ woo-import-export
+msgid "Skip Coupon if Exist."
+msgstr "跳过优惠券，如果存在。"
+
+#: core/views/wpie_import.php:193
+#@ woo-import-export
+msgid "Create New Coupon and ignore if Exist."
+msgstr "创建新的优惠券，如果存在，不容忽视。"
+
+#: core/views/wpie_import.php:194
+#@ woo-import-export
+msgid "Update Coupon if Exist."
+msgstr "更新优惠券，如果存在。"
+
+#: core/views/wpie_import.php:197
+#@ woo-import-export
+msgid "Note : Imported Coupon is skip or updated if already exist."
+msgstr "注：进口优惠券是跳过或更新，如果已经存在。"
+
+#: core/views/wpie_scheduled_export.php:181
+#@ woo-import-export
+msgid "Coupon Scheduled Export"
+msgstr "优惠券计划导出"
+
+#: core/views/wpie_settings.php:220
+#@ woo-import-export
+msgid "Coupon Fields"
+msgstr "优惠券领域"
+
+#: core/views/wpie_export.php:351
+#@ woo-import-export
+msgid "Filter By User Minimum Spend"
+msgstr "筛选按用户最低消费"
+
+#: core/views/wpie_export.php:353
+#@ woo-import-export
+msgid "Enter Amount"
+msgstr "输入金额"
+
+#: core/views/wpie_export.php:354
+#@ woo-import-export
+msgid "Default"
+msgstr "默认"
+

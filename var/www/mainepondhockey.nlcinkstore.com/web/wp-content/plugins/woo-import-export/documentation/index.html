@@ -1,0 +1,706 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <title>Woo Import Export</title>
+    <!-- Framework CSS -->
+    <link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+    <!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+    <link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+    <style type="text/css" media="screen">
+        p, table, hr, .box { margin-bottom:25px; }
+        .box p { margin-bottom:10px; }
+    </style>
+</head>
+
+
+<body>
+    <div class="container">
+
+        <h3 class="center alt">Plugin Documentation by &ldquo;VJInfotech&rdquo; v1.7.2</h3>
+
+        <hr>
+
+        <h1 class="center"><a href="#">&ldquo;Woo Import Export Plugin&rdquo;</a></h1>
+
+        <div class="borderTop">
+            <div class="span-6 colborder info prepend-1">
+                <p class="prepend-top">
+                    <strong>
+                        Created: 19/11/2015<br>
+                        Updated: 27/07/2016<br>
+                        By: VJInfotech<br>
+                        Email: <a href="mailto:support@vjinfotech.com">support@vjinfotech.com</a>
+                    </strong>
+                </p>
+            </div><!-- end div .span-6 -->		
+
+            <div class="span-12 last">
+                <p class="prepend-top append-0">
+                    Thank you for purchasing Woo Import Export Plugin. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="http://themeforest.net/user/vjinfotech">here</a>. Thanks so much!</p>
+            </div>
+        </div><!-- end div .borderTop -->
+
+        <hr>
+
+        <h2 id="toc" class="alt">Table of Contents</h2>
+        <ol class="alpha">
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#installation">Installation</a></li>
+            <li><a href="#product_type">Supported Product Type</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#field_list">Import / Export Field List</a></li>
+            <li><a href="#export">Exporting Products</a></li>
+            <li><a href="#export_orders">Exporting Orders</a></li>
+            <li><a href="#export_users">Exporting Users</a></li>
+            <li><a href="#export_product_cat">Exporting Product categories</a></li>
+            <li><a href="#export_coupon">Exporting Coupons</a></li>
+            <li><a href="#import">Importing Products</a></li>
+            <li><a href="#import_orders">Importing Orders</a></li>
+            <li><a href="#import_users">Importing Users</a></li>
+            <li><a href="#import_product_cat">Importing Product categories</a></li>
+            <li><a href="#import_coupon">Importing Coupons</a></li>
+            <li><a href="#export_management">Export File Management</a></li>
+            <li><a href="#export_field_management">Export Field Management</a></li>
+            <li><a href="#export_scheduled_management">Scheduled Management</a></li>
+            <li><a href="#preview">Export Data Preview</a></li>
+            <li><a href="#plugin_activation">Plugin License</a></li>
+            <li><a href="#demo">Demo</a></li>
+        </ol>
+
+        <hr>
+
+        <h3 id="introduction"><strong>A) Introduction</strong> - <a href="#toc">top</a></h3>
+        <p>Woo Import Export Plugin is an easy, quick and  advanced Import & Export your store data.</p>
+        <p>Woo Import Export Plugin gives you ability to export you store data into CSV file and import from CSV file. All type of your WooCommerce Products, Orders, Users, Porduct Categories and Coupons import/export in just one click. A great way to manage Products, Orders, Product Categories, Users and Coupons data between multiple sites.</p>
+        <p>Woo Import Export plugins inbult functionality are Multiple Powerful Filters, Export Management, Field Management, Scheduled Management.</p>
+        <hr>
+        <h3 id="installation"><strong>B) Installation</strong> - <a href="#toc">top</a></h3>
+        <p>Woo Import Export Plugin requires WordPress 3.7+</p>
+        <p>Woo Import Export Plugin has been successfully tested with WooCommerce 2.1.x, 2.2.x, 2.3.x, 2.4.x., 2.5.x</p>
+        <p>Just like every plugins, just copy the woo-import-export folder in your wp-content/plugins	folder then activate it through WordPress dashboard. The plugin is only accessible for Admin's</p>
+        <p>If the installation went OK, you can now access the plugin Dashboard from the 'Woo Imp Exp' menu. </p>
+
+        <figure>
+            <img src="assets/images/wpie_menu.png" alt="Menu Location"  style="border:none;"/>
+            <figcaption>This is the way to WooCommerce Product Import Export Plugin dashboard </figcaption>
+        </figure>
+
+        <p>You should see four sub menu in page. Just click it for what you want.</p>
+
+        <hr>
+        <h3 id="product_type"><strong>C) Supported Product Type</strong> - <a href="#toc">top</a></h3>
+        <h5>1) Simple Product</h5>
+        <h5>2) Downloadable Product</h5>
+        <h5>3) Virtual Product</h5>
+        <h5>4) Variable Product</h5>
+        <h5>5) External/Affiliate Product</h5>
+        <h5>6) Grouped Product</h5>
+        <p>
+        </p>
+
+        <hr>
+        <h3 id="features"><strong>D) Features</strong> - <a href="#toc">top</a></h3>
+        <br>
+        <h4><strong>General</strong></h4>
+        <h5>1) Easy Installation and Detailed Documentation.</h5>
+        <h5>2) Easy Import and Export Interface.</h5>
+        <h5>3) Easy, Quick and Advanced Import-Export System.</h5>
+        <h5>4) Ajax Products, Orders and Users Import System.</h5>
+        <h5>5) Export Data to CSV File.</h5>
+        <h5>6) Import Data from CSV File.</h5>
+        <h5>7) Multi Language support.</h5>
+        <h5>8) Fully responsive and 100% customizable.</h5>
+        <h5>9) Dedicated Support.</h5>
+
+        <br>
+        <h4><strong>Products Import Export</strong></h4>
+        <h5>1) Multiple Powerful Filters Available.</h5>
+        <h5>2) All Product Types Supported.</h5>
+        <h5>3) Almost All Products fields are used.</h5>
+        <h5>4) Custom field supported.</h5>
+        <h5>5) Custom Attributes supported.</h5>
+        <h5>6) Export Data preview available.</h5>
+        <h5>7) Export CSV data Management.</h5>
+        <h5>8) Product Fields Management.</h5>
+        <h5>9) Product Export Scheduled Management (Automatic Export).</h5>
+        <h5>10) Import Products by URL.</h5>
+        <h5>11) Import Products with new Categories.</h5>
+        <h5>12) Import Product Create / Update / Skip option available when already product exist.</h5>
+        <h5>13) Imported Product preview available.</h5>
+
+        <br>
+        <h4><strong>Orders Import Export</strong></h4>
+        <h5>1) Woocommerce Update (Woocommerce 2.1.X to Woocommerce 2.X.X).</h5>
+        <h5>2) Multiple Powerful Filters Available.</h5>
+        <h5>3) All new and old Order Status Supported.</h5>
+        <h5>4) Almost All Order fields are used.</h5>
+        <h5>5) Custom field supported.</h5>
+        <h5>6) Custom Attributes supported.</h5>
+        <h5>7) Export Data preview available.</h5>
+        <h5>8) Export CSV data Management.</h5>
+        <h5>9) Order Fields Management.</h5>
+        <h5>10) Order Export Scheduled Management(Automatic Export).</h5>
+        <h5>11) Import Order by URL.</h5>
+        <h5>12) Import Order Create / Update / Skip option available when already Order exist.</h5>
+        <h5>13) Imported Order preview available.</h5>		
+
+        <br>
+        <h4><strong>Users Import Export</strong></h4>
+        <h5>1) Multiple Powerful Filters Available.</h5>
+        <h5>2) Almost All User fields are used.</h5>
+        <h5>3) All Usermeta supported.</h5>
+        <h5>4) All Capabilities supported.</h5>
+        <h5>5) Custom Capabilities supported.</h5>
+        <h5>6) Export Data preview available.</h5>
+        <h5>7) Export CSV data Management.</h5>
+        <h5>8) User Fields Management.</h5>
+        <h5>9) User Export Scheduled Management(Automatic Export).</h5>
+        <h5>10) Import User by URL.</h5>
+        <h5>11) Import User Update / Skip option available when already User exist.</h5>
+        <h5>12) Imported User preview available.</h5>
+
+        <br>
+        <h4><strong>Product Categories Import Export</strong></h4>
+        <h5>1) Multiple Powerful Filters Available.</h5>
+        <h5>2) Almost All Category fields are used.</h5>
+        <h5>3) Category images are exported and auto set.</h5>
+        <h5>4) Category parent auto detected.</h5>
+        <h5>5) WooCommerce categories meta are exported.</h5>
+        <h5>6) Export Data preview available.</h5>
+        <h5>7) Export CSV data Management.</h5>
+        <h5>8) Categories Fields Management.</h5>
+        <h5>9) Categories Export Scheduled Management(Automatic Export).</h5>
+        <h5>10) Import Categories by URL.</h5>
+        <h5>11) Import Categories Update / Skip option available when already Product Categories exist.</h5>
+        <h5>12) Imported Categories preview available.</h5>	
+
+        <br>
+        <h4><strong>Coupons Import Export</strong></h4>
+        <h5>1) Multiple Powerful Filters Available.</h5>
+        <h5>2) Almost All Coupons fields are used.</h5>
+        <h5>3) All Coupons meta are exported.</h5>
+        <h5>4) Export Data preview available.</h5>
+        <h5>5) Export CSV data Management.</h5>
+        <h5>6) Coupons Fields Management.</h5>
+        <h5>7) Coupons Coupons Scheduled Management(Automatic Export).</h5>
+        <h5>8) Import Coupons by URL.</h5>
+        <h5>9) Import Coupons Update / Skip option available when already Coupons exist.</h5>
+        <h5>10) Imported Coupons preview available.</h5>	
+
+        <hr>
+        <h3 id="field_list"><strong>E) Import / Export Field List</strong> - <a href="#toc">top</a></h3>
+        <h4><strong>1) Products</strong></h4>
+        <ul><li>Id( id )</li><li>Product Name( post_title )</li><li>Created Date( created_at )</li><li>Description( post_content )</li><li>Product Type( Product Type )</li><li>Categories( product_cat )</li><li>Price( _price )</li><li>Short Description( post_excerpt )</li><li>Product Status( post_status )</li><li>Permalink( permalink )</li><li>Tags( product_tag )</li><li>SKU( _sku )</li><li>Sale Price( _sale_price )</li><li>Visibility( _visibility )</li><li>On Sale( on_sale )</li><li>Stock Status( _stock_status )</li><li>Regular Price( _regular_price )</li><li>Total Sales( total_sales )</li><li>Downloadable( _downloadable )</li><li>Virtual( _virtual )</li><li>Purchase Note( _purchase_note )</li><li>Weight( _weight )</li><li>Length( Length )</li><li>Width( _width )</li><li>Height( _height )</li><li>Unit( unit )</li><li>Sold Individually( _sold_individually )</li><li>Manage Stock( _manage_stock )</li><li>Stock( _stock )</li><li>Backorders Allowed( backorders_allowed )</li><li>Backorders( _backorders )</li><li>Purchaseable( purchaseable )</li><li>Featured( _featured )</li><li>Is Taxable( taxable )</li><li>Tax Status( _tax_status )</li><li>Tax Class( _tax_class )</li><li> Product Images( images )</li><li>Product Image Set( has_post_thumbnail )</li><li>Download Limit( _download_limit )</li><li>Download Expiry( _download_expiry )</li><li> Downloadable Files( _downloadable_files )</li><li> Download Type( _download_type )</li><li> Product URL( _product_url )</li><li> Button Text( _button_text )</li><li> Shipping Required( shipping_required )</li><li> Shipping Taxable( shipping_taxable )</li><li> Shipping Class( product_shipping_class )</li><li> Shipping Class Id( shipping_class_id )</li><li> Comment Status( comment_status )</li><li> Average Rating( average_rating )</li><li> Rating Count( rating_count )</li><li> Related Ids( related_ids )</li><li> Upsell Ids( _upsell_ids )</li><li> Cross Sell Ids( _crosssell_ids )</li><li> Attributes( _product_attributes )</li><li> Custom Fields( _product_custom_fields )</li><li> Product Parent id( post_parent )</li><li>Variation Description( _variation_description )</li><li> Menu Order( menu_order )</li><li> Comment Status( comment_status )</li><li> Ping Status( ping_status )</li>
+        </ul>
+
+        <h4><strong>2) Orders</strong></h4>
+        <ul><li>Id( id )</li><li>Status( order_final_status )</li><li>Order Date( order_date )</li><li>First Name (Billing)( _billing_first_name )</li>
+            <li>Last Name (Billing)( _billing_last_name )</li><li>Company (Billing)( _billing_company )</li><li>Address 1 (Billing)( _billing_address_1 )</li><li>Address 2 (Billing)( _billing_address_2 )</li><li>City (Billing)( _billing_city )</li><li>Postcode (Billing)( _billing_postcode )</li><li>Country (Billing)( _billing_country )</li><li>State (Billing)( _billing_state )</li><li>Email (Billing)( _billing_email )</li><li>Phone (Billing)( _billing_phone )</li><li>First Name (Shipping)( shipping_first_name )</li><li>Last Name (Shipping)( _shipping_last_name )</li><li>Company (Shipping)( _shipping_company )</li><li>Address 1 (Shipping( shipping_address_1 )</li><li>Address 2 (Shipping)( _shipping_address_2 )</li><li>City (Shipping)( _shipping_city )</li><li>Postcode (Shipping)( _shipping_postcode )</li><li>State (Shipping)( _shipping_state )</li><li>Country (Shipping)( _shipping_country )</li><li>Customer Note( customer_note )</li><li>Method Title (Shipping)( _shipping_method_title )</li><li>Payment Method Title( _payment_method_title )</li><li>Cart Discount( _cart_discount )</li><li>Order Tax( _order_tax )</li><li>Order Tax (Shipping)( _order_shipping_tax )</li><li>Order Total( _order_total )</li><li>Completed Date( _completed_date )</li><li>Number of different items( total_diff_no_product )</li><li>Total number of items( totle_no_of_product )</li><li>Status Key( order_data_status )</li><li>Payment Method( _payment_method )</li><li>Order Discount( _order_discount )</li><li>Order Key( _order_key )</li><li>Order Currency( _order_currency )</li><li>Order Other Data( order_other_data )</li><li>Product Id( product_id )</li><li>Product Name( name )</li><li>Product Quantity( qty )</li><li>Line price (without taxes)( line_subtotal )</li><li>Line price (including taxes)( line_total )</li><li>Product SKU( _sku )</li><li>Coupon Id( coupon_id )</li><li>Coupon Discount( coupon_amount )</li>
+        </ul>
+
+        <h4><strong>3) Users</strong></h4>
+        <ul><li>Id( ID )</li><li>User Role( user_role )</li><li>User Email( user_email )</li>
+            <li>Username( user_login )</li><li>Password( user_pass )</li><li>User Registered( user_registered )</li><li>Website( user_url )</li><li>First Name (Billing)( _billing_first_name )</li><li>Last Name (Billing)( _billing_last_name )</li><li>Company (Billing)( _billing_company )</li><li>Address 1 (Billing)( _billing_address_1 )</li><li>Address 2 (Billing)( _billing_address_2 )</li><li>City (Billing)( _billing_city )</li><li>Postcode (Billing)( _billing_postcode )</li><li>Country (Billing)( _billing_country )</li><li>State (Billing)( _billing_state )</li><li>Email (Billing)( _billing_email )</li><li>Phone (Billing)( _billing_phone )</li><li>First Name (Shipping)( shipping_first_name )</li><li>Last Name (Shipping)( _shipping_last_name )</li><li>Company (Shipping)( _shipping_company )</li><li>Address 1 (Shipping( shipping_address_1 )</li><li>Address 2 (Shipping)( _shipping_address_2 )</li><li>City (Shipping)( _shipping_city )</li><li>Postcode (Shipping)( _shipping_postcode )</li><li>State (Shipping)( _shipping_state )</li><li>Country (Shipping)( _shipping_country )</li><li>User Meta( wpie_user_meta )</li><li>User Capabilities( wpie_user_capabilities )</li>
+        </ul>
+
+        <h4><strong>4) Product Categories</strong></h4>
+        <ul><li>Id( term_id )</li><li>Name( name )</li><li>Slug( slug )</li>
+            <li>Term Taxonomy Id( term_taxonomy_id )</li><li>Taxonomy( taxonomy )</li><li>Parent Id( parent )</li><li>Parent Slug( parent_slug )</li><li>Description( description )</li><li>Term Group( term_group )</li><li>Count( count )</li><li>Category Image( category_image )</li><li>Woocommerce Term Meta( woocommerce_term_meta )</li>
+        </ul>
+
+        <h4><strong>5) Coupons</strong></h4>
+        <ul><li>Id( ID )</li><li>Code( post_title )</li><li>Coupon Amount( coupon_amount )</li>	<li>Created Date( post_date )</li><li>Expiry Date( expiry_date )</li><li>Description( post_excerpt )</li><li>Discount Type( discount_type )</li><li>Post Type( post_type )</li><li>Coupon Name( post_name )</li><li>Individual Use( individual_use )</li><li>Product Ids( product_ids )</li><li>Usage Limit( usage_limit )</li><li>Usage Limit( usage_limit )</li><li>Free Shipping( free_shipping )</li><li>Ping Status( ping_status )</li><li>Post Status( post_status )</li><li>Attributes( coupon_attributes )</li><li>Product Parent id( post_parent )</li><li>Menu Order( menu_order )</li><li>Comment Status( comment_status )</li>	<li>Ping Status( ping_status )</li>
+        </ul>
+        <hr>
+        <h3 id="export"><strong>F) Exporting Products</strong> - <a href="#toc">top</a></h3>
+
+        <p>All filter that you see in page are optional. You can export all your product data in one big CSV file. You can try it by simply click on the "Export" button or click on "Preview" button.</p>
+
+        <figure>
+            <img src="assets/images/wpie_product_export.png" alt="Exporting Product" />
+            <figcaption>The Exporting Product Screen</figcaption>
+        </figure>
+
+        <h4><strong>Exporting Product options</strong></h4>
+
+        <h5>a) Filter By Product Category</h5>
+        <p>In Your store multiple category may be available but if you want to export specific category then this plugin can allow you to do that simple way by just selecting category for list of all categories.</p>
+        <p>
+            Default : All categories, if you leave it blank. 
+        </p>
+
+        <h5>b) Filter By Product ID / Name</h5>
+        <p>
+            This Plugin allow you to export product by only spicefic id or name. multiple product selection available so you can selelct multiple product for filter. 
+        </p>
+        <p>
+            Default : All Products, if you leave it blank.
+        </p>
+
+        <h5>c) Filter By Product Author Name / Email</h5>
+        <p>
+            Product author can not be same for all products, so if you want to seelect specifilc product author than this filter is for you. Just select author from author list and click for preview or export.
+        </p>
+        <p>
+            Default : All authors, if you leave it blank.
+        </p>
+
+        <h5>d) Limit Records</h5>
+        <p>
+            In one store thousands of records are available but if you want to select only limited recored than this filter help you. this can be variable for variable product.
+        </p>
+        <p>
+            Default : All Records, if you leave it blank.
+        </p>
+        <h5>e) Offset Records</h5>
+        <p>
+            If in you store large number of records are available but if you export one by one page than this  filter is used. by means this filter is used for paging.if you want to get records after XX(any number) records then this will help you.
+        </p>
+        <p>
+            Default : 0, if you leave it blank.
+        </p>
+
+        <h5>f) Filter By Date</h5>
+        <p>
+            If you want to export product data only for a specific period of time, you can specify start and end date using the two dedicated field. To select the desired date just click on the field to popup the calendar and select one day. You can't select a day in the future.
+        </p>
+        <p>
+            Default : All duration, if you leave it blank.
+        </p>
+        <h5>e) Scheduled Export</h5>
+        <p>
+            If you want to export products data Recursively than just click on 'Scheduled Expor' checkbox. After This process two option available there, first one is for interval time and other is for send mail to any recipients. 
+        </p>
+        <p>For save Scheduled just click on 'Save Scheduled' button. For manage Scheduled just click on 'manage Scheduled' menu.</p>
+
+        <hr>
+        <h3 id="export_orders"><strong>G) Exporting Orders</strong> - <a href="#toc">top</a></h3>
+
+        <p>All filter that you see in page are optional. You can export all your woocommerce store orders data in one big CSV file. You can try it by simply click on the "Export" button or click on "Preview" button.</p>
+
+        <figure>
+            <img src="assets/images/wpie_order_export.png" alt="Exporting Orders" />
+            <figcaption>The Exporting Order Screen</figcaption>
+        </figure>
+
+        <h4><strong>Exporting Order options</strong></h4>
+
+        <h5>a) Filter By Order Status</h5>
+        <p>The plugin will automatically lists all available order status in your WooCommerce installation. Native status and optionnaly extra status developped by yourself or third-party plugins. Note that status without any order won't be displayed. The number beside each status represents the actual number of orders stored in the database.</p>
+        <p>
+            Default : All Status, if you leave it blank. 
+        </p>
+
+        <h5>b) Filter By Product Category</h5>
+        <p>
+            This plugin allow you to export order by specific product categories. If you wants to export order by specific Product category then just select categories from categories list.
+        </p>
+        <p>
+            Default : All Category, if you leave it blank.
+        </p>
+
+        <h5>c) Filter By Product ID / Name</h5>
+        <p>
+            This filter used for export order by specific product id or product name. Just select any product from list and you are done. 
+        </p>
+        <p>
+            Default : All Product, if you leave it blank.
+        </p>
+
+        <h5>d) Filter By Order Id</h5>
+        <p>
+            This filter used for export order by Specific order. You can choose with Order id from list. If you wants to check specific order from list than this filter help you to do that oparation.
+        </p>
+        <p>
+            Default : All Order ID, if you leave it blank.
+        </p>
+
+        <h5>e) Filter By Date</h5>
+        <p>
+            If you want to export orders data only for a specific period of time, you can specify start and end date using the two dedicated field. To select the desired date just click on the field to popup the calendar and select one day. You can't select a day in the future. 
+        </p>
+        <p>
+            Default : All duration, if you leave it blank.
+        </p>
+        <h5>f) Scheduled Export</h5>
+        <p>
+            If you want to export orders data Recursively(automatic export) than just click on 'Scheduled Expor' checkbox. After This process two option available there, first one is for interval time and other is for send mail to any recipients. 
+        </p>
+        <p>For save Scheduled just click on 'Save Scheduled' button. For manage Scheduled just click on 'manage Scheduled' menu.</p>
+        <hr>
+        <h3 id="export_users"><strong>H) Exporting Users</strong> - <a href="#toc">top</a></h3>
+
+        <p>All filter that you see in page are optional. You can export all your woocommerce store users data in one big CSV file. You can try it by simply click on the "Export" button or click on "Preview" button.</p>
+
+        <figure>
+            <img src="assets/images/wpie_user_export.png" alt="Exporting Users" />
+            <figcaption>The Exporting Users Screen</figcaption>
+        </figure>
+
+        <h4><strong>Exporting User options</strong></h4>
+
+        <h5>a) Filter By User ID / Username / Email</h5>
+        <p>The plugin will automatically lists all available users. If you want to get users by username, ID, Email than this filter is used to filter this type of data. by means this filter is used for export data with specific users need.</p>
+        <p>
+            Default : All Users, if you leave it blank. 
+        </p>
+
+        <h5>b) Filter By User Role</h5>
+        <p>
+            This plugin allow you to export user by specific user role. If you wants to export user by specific user role then just select role from list.
+        </p>
+        <p>
+            Default : All Useer Roles, if you leave it blank.
+        </p>
+
+        <h5>c) Limit Records</h5>
+        <p>
+            In one store thousands of records are available but if you want to select only limited recored than this filter help you. In sort this filter is used for pagination.
+        </p>
+        <p>
+            Default : All Records, if you leave it blank.
+        </p>
+        <h5>d) Offset Records</h5>
+        <p>
+            If in you store large number of records are available but if you export one by one page than this  filter is used. by means this filter is used for paging.if you want to get records after XX(any number) records then this will help you.
+        </p>
+        <p>
+            Default : 0, if you leave it blank.
+        </p>
+
+        <h5>e) Filter By Date</h5>
+        <p>
+            If you want to export users data only for a specific period of time, you can specify start and end date using the two dedicated field. To select the desired date just click on the field to popup the calendar and select one day. You can't select a day in the future. 
+        </p>
+        <p>
+            Default : All duration, if you leave it blank.
+        </p>
+        <hr>
+        <h3 id="export_product_cat"><strong>I) Exporting Product Categories</strong> - <a href="#toc">top</a></h3>
+
+        <p>All filter that you see in page are optional. You can export all your woocommerce store categories data in one big CSV file. You can try it by simply click on the "Export" button or click on "Preview" button.</p>
+
+        <figure>
+            <img src="assets/images/wpie_category_export.png" alt="Exporting Product Categories" />
+            <figcaption>The Exporting Product Categories Screen</figcaption>
+        </figure>
+
+        <h4><strong>Exporting Product Categories options</strong></h4>
+
+        <h5>a) Filter By Product Category</h5>
+        <p>In Your store multiple category may be available but if you want to export specific category then this plugin can allow you to do that simple way by just selecting category for list of all categories.</p>
+        <p>
+            Default : All categories, if you leave it blank. 
+        </p>
+
+        <h5>b) Limit Records</h5>
+        <p>
+            In one store thousands of records are available but if you want to select only limited recored than this filter help you.
+        </p>
+        <p>
+            Default : All Records, if you leave it blank.
+        </p>
+        <h5>c) Offset Records</h5>
+        <p>
+            If in you store large number of records are available but if you export one by one page than this  filter is used. by means this filter is used for paging.if you want to get records after XX(any number) records then this will help you.
+        </p>
+        <p>
+            Default : 0, if you leave it blank.
+        </p>
+
+        <h5>d) Scheduled Export</h5>
+        <p>
+            If you want to export product categories data Recursively(automatic export) than just click on 'Scheduled Expor' checkbox. After This process two option available there, first one is for interval time and other is for send mail to any recipients. 
+        </p>
+        <p>For save Scheduled just click on 'Save Scheduled' button. For manage Scheduled just click on 'manage Scheduled' menu.</p>
+        <hr>
+        <h3 id="export_coupon"><strong>J) Exporting Coupons</strong> - <a href="#toc">top</a></h3>
+
+        <p>All filter that you see in page are optional. You can export all your woocommerce store Coupons data in one big CSV file. You can try it by simply click on the "Export" button or click on "Preview" button.</p>
+
+        <figure>
+            <img src="assets/images/wpie_coupon_export.png" alt="Exporting Coupons" />
+            <figcaption>The Exporting Coupons Screen</figcaption>
+        </figure>
+
+        <h4><strong>Exporting Product Coupons</strong></h4>
+
+        <h5>a) Filter By Coupons ID / Code </h5>
+        <p>This filter is used for any specific coupon import export. All coupons are listed in this section so you can select that you want or leave it blank.</p>
+        <p>
+            Default : All Coupons, if you leave it blank. 
+        </p>
+
+        <h5>b) Limit Records</h5>
+        <p>
+            In one store thousands of records are available but if you want to select only limited recored than this filter help you.
+        </p>
+        <p>
+            Default : All Records, if you leave it blank.
+        </p>
+        <h5>c) Offset Records</h5>
+        <p>
+            If in you store large number of records are available but if you export one by one page than this  filter is used. by means this filter is used for paging.if you want to get records after XX(any number) records then this will help you.
+        </p>
+        <p>
+            Default : 0, if you leave it blank.
+        </p>
+        <h5>d) Filter By Date</h5>
+        <p>
+            If you want to export coupons data only for a specific period of time, you can specify start and end date using the two dedicated field. To select the desired date just click on the field to popup the calendar and select one day. You can't select a day in the future. 
+        </p>
+        <p>
+            Default : All duration, if you leave it blank.
+        </p>
+        <h5>e) Scheduled Export</h5>
+        <p>
+            If you want to export coupons data Recursively(automatic export) than just click on 'Scheduled Expor' checkbox. After This process two option available there, first one is for interval time and other is for send mail to any recipients. 
+        </p>
+        <p>For save Scheduled just click on 'Save Scheduled' button. For manage Scheduled just click on 'manage Scheduled' menu.</p>
+        <hr>
+
+        <h3 id="import"><strong>K) Importing Products</strong> - <a href="#toc">top</a></h3>
+        <p> Importing tools is the default operation you can do with Woo Import Export Plugin. This allow you to fetch all data from csv file and create, skip or update product if already exist in your store.</p>
+
+        <p>This feature allows to you for update your store or change your store from local to live or any other. In any situatin if you transfer store product data from one site to another this will capable fot it.</p>
+        <p><em><h5>Important Note :</h5> Imported product can not be Revoked and any reverse operation are not available after import complete, so first backup your store data before you import any data.</em></p>
+        <figure>
+            <img src="assets/images/wpie_product_import.png" alt="Importing Product" />
+            <figcaption>The Importing Product Screen</figcaption>
+        </figure>
+
+        <h4><strong>Importing Product options</strong></h4>
+
+        <h5>a) Select File to Import</h5>
+        <p>The file for imported product, only csv file is allowed and only this plugin exported file can be allowed for Import Product. Any other file can be Harmful for your store.</p>
+        <p>If you problem with upload file so you can change you file upload limit from server, Or you can First export Limited records and import one by one.</p>
+
+        <h5>b) Enter URL to Import</h5>
+        <p>
+            If you file is online then only file url through you can import product. just enter URL for file.
+        </p>
+        <p>File is copy via php copy or CURL function so check permition for file. if file dose not exist than no operation can be performed. So please check File currect URL and then click import file.</p>
+
+        <h5>c) Select Category for Product</h5>
+        <p>
+            If you wat to create or update product with new category by importing csv, Than select category for all product that are in csv file.  
+        </p>
+        <p>
+            Default : original category in csv, if you leave it blank. 
+        </p>
+
+        <h5>d) Product Create / Update / Skip</h5>
+        <p>
+            If Product already available in you store than what can do? this allow you to skip, create or update product if product already available in your store. if product is not found in your store than it will be created.
+        </p>
+        <p>There are option available for skip, update or create product select one option that is best for your store.</p>
+        <p>Product duplication is found on basis of SKU. so sku must be unique in your store. Empty SKU can not be consider.</p>
+
+        <hr>
+
+        <h3 id="import_orders"><strong>L) Importing Orders</strong> - <a href="#toc">top</a></h3>
+        <p> Importing tools is the default operation you can do with Woo Import Export Plugin. This allow you to fetch all data from csv file and create, update or skip order if already exist in your store.</p>
+
+        <p>This feature allows to you for update your store or change your store from local to live or any other. In any situatin if you transfer store orders data from one site to another this will capable fot it.</p>
+        <p><em><h5>Important Note :</h5>1) Imported orders can not be Revoked and any reverse operation are not available after import complete, so first backup your store data before you import any data.</em></p>
+        <p><em>2) Product SKU or ID must be same for import and export both side. If product id or sku is not same than product item can be possible to different data. So please check before you import any data.</em></p>
+        <figure>
+            <img src="assets/images/wpie_order_import.png" alt="Importing Orders" />
+            <figcaption>The Importing Orders Screen</figcaption>
+        </figure>
+
+        <h4><strong>Importing Order options</strong></h4>
+
+        <h5>a) Select File to Import</h5>
+        <p>The file for imported order, only csv file is allowed and only this plugin exported file can be allowed for Import Orders. Any other file can be Harmful for your store.</p>
+        <p>If you problem with upload file so you can change you file upload limit from server, Or you can First export Limited records and import one by one.</p>
+
+        <h5>b) Enter URL to Import</h5>
+        <p>
+            If you file is online then only file url through you can import orders. just enter URL for file.
+        </p>
+        <p>File is copy via php copy or CURL function so check permition for file. if file dose not exist than no operation can be performed. So please check File currect URL and then click import file.</p>
+
+        <h5>d) Order Create / Update / Skip</h5>
+        <p>
+            If Order already available in you store than what can do? this allow you to skip, create or update orders if order already available in your store. if order is not found in your store than it will be created.
+        </p>
+        <p>There are option available for skip, update or create order select one option that is best for your store.</p>
+
+        <p>Orders duplication is found on basis of 'Order Key'.</p>
+
+        <h3 id="import_users"><strong>M) Importing Users</strong> - <a href="#toc">top</a></h3>
+        <p> Importing tools is the default operation you can do with Woo Import Export Plugin. This allow you to fetch all data from csv file and update or skip user if already exist in your store.</p>
+
+        <p>This feature allows to you for update your store or change your store from local to live or any other. In any situatin if you transfer store user data from one site to another this will capable fot it.</p>
+        <p><em><h5>Important Note :</h5>1) Imported users can not be Revoked and any reverse operation are not available after import complete, so first backup your store data before you import any data.</em></p>
+        <figure>
+            <img src="assets/images/wpie_user_import.png" alt="Importing Users" />
+            <figcaption>The Importing Users Screen</figcaption>
+        </figure>
+
+        <h4><strong>Importing User options</strong></h4>
+
+        <h5>a) Select File to Import</h5>
+        <p>The file for imported users, only csv file is allowed and only this plugin exported file can be allowed for Import Users. Any other file can be Harmful for your store.</p>
+        <p>If you problem with upload file so you can change you file upload limit from server, Or you can First export Limited records and import one by one.</p>
+
+        <h5>b) Enter URL to Import</h5>
+        <p>
+            If you file is online then only file url through you can import users. just enter URL for file.
+        </p>
+        <p>File is copy via php copy or CURL function so check permition for file. if file dose not exist than no operation can be performed. So please check File currect URL and then click import file.</p>
+
+        <h5>d) User Create / Update / Skip</h5>
+        <p>
+            If User already available in you store than what can do? this allow you to skip or update if user already available in your store. if user is not found in your store than it will be created.
+        </p>
+        <p>There are option available for skip or update users select one option that is best for your store.</p>
+
+        <p>Users duplication is found on basis of 'User Email' and 'Username'.</p>
+
+        <h3 id="import_product_cat"><strong>N) Importing Product Categories</strong> - <a href="#toc">top</a></h3>
+        <p> Importing tools is the default operation you can do with Woo Import Export Plugin. This allow you to fetch all data from csv file and update or skip category if already exist in your store.</p>
+
+        <p>This feature allows to you for update your store or change your store from local to live or any other. In any situatin if you transfer store product categories data from one site to another this will capable fot it.</p>
+        <p><em><h5>Important Note :</h5>1) Imported categories can not be Revoked and any reverse operation are not available after import complete, so first backup your store data before you import any data.</em></p>
+        <figure>
+            <img src="assets/images/wpie_category_import.png" alt="Importing Product Categories" />
+            <figcaption>The Importing Product Categories Screen</figcaption>
+        </figure>
+
+        <h4><strong>Importing Product Categories options</strong></h4>
+
+        <h5>a) Select File to Import</h5>
+        <p>The file for imported Product Categories, only csv file is allowed and only this plugin exported file can be allowed for Import Product Categories. Any other file can be Harmful for your store.</p>
+        <p>If you problem with upload file so you can change you file upload limit from server, Or you can First export Limited records and import one by one.</p>
+
+        <h5>b) Enter URL to Import</h5>
+        <p>
+            If you file is online then only file url through you can import Product Categories. just enter URL for file.
+        </p>
+        <p>File is copy via php copy or CURL function so check permition for file. if file dose not exist than no operation can be performed. So please check File currect URL and then click import file.</p>
+
+        <h5>d) Product Category Update / Skip</h5>
+        <p>
+            If Product Categories already available in you store than what can do? this allow you to skip or update if Product Categories already available in your store. if Product Categories is not found in your store than it will be created.
+        </p>
+        <p>There are option available for skip or update categories select one option that is best for your store.</p>
+
+        <p>Product Categories duplication is found on basis of Product Categories 'slug'.</p>
+
+        <hr>
+        <h3 id="import_coupon"><strong>O) Importing Coupons</strong> - <a href="#toc">top</a></h3>
+        <p> Importing tools is the default operation you can do with Woo Import Export Plugin. This allow you to fetch all data from csv file and update or skip coupons if already exist in your store.</p>
+
+        <p>This feature allows to you for update your store or change your store from local to live or any other. In any situatin if you transfer store coupons data from one site to another this will capable fot it.</p>
+        <p><em><h5>Important Note :</h5>1) Imported coupons can not be Revoked and any reverse operation are not available after import complete, so first backup your store data before you import any data.</em></p>
+        <figure>
+            <img src="assets/images/wpie_coupon_import.png" alt="Importing Coupons" />
+            <figcaption>The Importing Coupons Screen</figcaption>
+        </figure>
+
+        <h4><strong>Importing Product Coupons options</strong></h4>
+
+        <h5>a) Select File to Import</h5>
+        <p>The file for imported Coupons, only csv file is allowed and only this plugin exported file can be allowed for Import Coupons. Any other file can be Harmful for your store.</p>
+        <p>If you problem with upload file so you can change you file upload limit from server, Or you can First export Limited records and import one by one.</p>
+
+        <h5>b) Enter URL to Import</h5>
+        <p>
+            If you file is online then only file url through you can import Coupons. just enter URL for file.
+        </p>
+        <p>File is copy via php copy or CURL function so check permition for file. if file dose not exist than no operation can be performed. So please check File currect URL and then click import file.</p>
+
+        <h5>d) Coupons Update / Skip</h5>
+        <p>
+            If Coupons already available in you store than what can do? this allow you to skip or update if Coupons already available in your store. if Coupons is not found in your store than it will be created.
+        </p>
+        <p>There are option available for skip or update categories select one option that is best for your store.</p>
+
+        <p>Coupons duplication is found on basis of Coupons 'code'.</p>
+
+        <hr>
+        <h3 id="export_management"><strong>P) Export File Management</strong> - <a href="#toc">top</a></h3>
+
+        <p>As you can see in figure, your exported file log available here. So you can Redownload file or log are available for export reference. If you  do not need to csv file than just delete it, By just clicking 'DELETE' button. if you check for reference, which kind of data you export in past than you can download again fron list with date time available for your reference.</p>
+
+        <figure>
+            <img src="assets/images/wpie_product_export_log.png" alt="Export Product Log" />
+            <figcaption>The Export Product Log</figcaption>
+        </figure>
+        <p>As You can see in figure two opration availabel that is 'DELETE' and  'Download' you can do with your self.</p>
+
+        <hr>
+
+        <h3 id="export_field_management"><strong>Q) Export Field Management</strong> - <a href="#toc">top</a></h3>
+        <p>You can set you field name just goto 'Setting' menu.</p>
+        <p>As you can see in figure, you can set each field name of any export file. Just Enter Field name and click save button for save field name and you are done.</p>
+
+        <figure>
+            <img src="assets/images/wpie_export_fields.png" alt="Export Field" />
+            <figcaption>The Export fields</figcaption>
+        </figure>
+        <p>As You can see in figure you can set product, order, user, product category and coupon export fields.</p>
+
+        <hr>
+
+        <h3 id="export_scheduled_management"><strong>R) Scheduled Management</strong> - <a href="#toc">top</a></h3>
+        <p>You can create scheduled in just one click.</p>
+        <p>As you can see in figure, Click on 'Scheduled Export' checkbox and than just click on 'Save Scheduled' button.</p>
+        <p>you can also you all filter for export just select filter and save scheduled.</p>
+
+        <figure>
+            <img src="assets/images/wpie_create_scheduled.png" alt="Scheduled Export" />
+            <figcaption>The Scheduled Export</figcaption>
+        </figure>
+        <p>As You can see in figure you can create Scheduled, delete Scheduled functionality also available.</p>
+        <figure>
+            <img src="assets/images/wpie_manage_scheduled.png" alt="Scheduled Export Management" />
+            <figcaption>The Scheduled Export Management</figcaption>
+        </figure>
+        <p>As You can see in figure just click on 'DELETE' link and than you are done.</p>
+        <hr>
+
+        <h3 id="preview"><strong>S) Export Data Preview</strong> - <a href="#toc">top</a></h3>
+
+        <p>This Plugin allow you to see export data preview before you export. Just click on 'Preview' button thats it, you can see what data you are exporting.</p>
+        <p>Preview data and Export FIle data are same so all records in preview are availabel in exported file.</p>
+        <figure>
+            <img src="assets/images/wpie_product_export_preview.png" alt="Preview Export data" />
+            <figcaption>Preview Export data</figcaption>
+        </figure>
+
+
+        <hr>
+        <h3 id="plugin_activation"><strong>T) Plugin License</strong> - <a href="#toc">top</a></h3>
+
+        <p> After activating the plugin, you need to activate your license for support and automatic upgrades. You will get all Feature only after activating your license. A license key only be used for one installation of WordPress at a time.
+
+            Click on "Settings" link under "Woo Imp Exp" Menu for activate your license. You will see below section there on that page. To activate your license, you need to enter your Name, Email address and purchase code( Unique code obtained while purchased this product. </p>
+
+        <figure>
+            <img src="assets/images/wpie_product_license.png" alt="Settings" />
+            <figcaption>Settings</figcaption>
+        </figure>
+
+
+        <hr>
+        <h3 id="demo"><strong>U) Demo</strong> - <a href="#toc">top</a></h3>
+
+        <p> Username : demo </p>
+        <p> Password : demo </p>
+        <p>
+            <a href="http://www.vjinfotech.com/products/woo-imp-exp/wp-admin" target="_parent">http://www.vjinfotech.com/products/woo-imp-exp/wp-admin</a>
+        </p>
+
+        <hr>
+
+        <p class="append-bottom alt large"><strong>VJInfotech</strong></p>
+        <p><a href="#toc">Go To Table of Contents</a></p>
+
+        <hr class="space">
+    </div><!-- end div .container -->
+</body>
+</html>

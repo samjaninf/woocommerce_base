@@ -1,0 +1,357 @@
+# Copyright (C) 2016 WooThemes / SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Elavon Converge (formerly VM) Gateway 1.7.1\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2014-06-15 22:41:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-wc-elavon-vm-api.php:148
+msgid ""
+"Request Time (s): %s\n"
+"Request Method: %s\n"
+"Request URI: %s\n"
+"Request Body:\n"
+" %s"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:82
+msgid "Elavon Converge"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:83
+msgid ""
+"Elavon Converge (formerly VM) Payment Gateway provides a seamless and "
+"secure checkout process for your customers"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:104
+msgid "TEST MODE ENABLED"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:107
+msgid "ENVIRONMENT: DEMO"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:132
+msgid "Enable"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:133
+msgid "Enable Elavon Converge"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:140
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:142
+msgid "Payment method title that the customer will see on your website."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:143
+msgid "Credit Card"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:147
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:149
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:150
+msgid "Pay securely using your credit card."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:154
+msgid "Submit for Settlement"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:155
+msgid "Submit all transactions for settlement immediately."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:162
+msgid "Card Verification"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:163
+msgid "Require customer to enter credit card verification code"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:169
+msgid "Accepted Card Logos"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:173
+msgid ""
+"Select which card types you accept to display the logos for on your "
+"checkout page.  This is purely cosmetic and optional, and will have no "
+"impact on the cards actually accepted by your account."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:188
+msgid "Account"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:190
+msgid "What account do you want your transactions posted to?"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:193
+msgid "Production"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:194
+msgid "Demo"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:199
+msgid "Test Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:200
+msgid "Enable Test Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:202
+msgid ""
+"Place the payment gateway in test mode for your production account, "
+"transactions will not be posted to your account or credit card processor."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:207
+msgid "Merchant ID"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:209
+msgid ""
+"Converge ID/Account ID as provided by Elavon.  This will be six digits "
+"long, and start with the number 5 or 6."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:214
+msgid "User ID"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:216
+msgid "Converge user ID as configured on Converge"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:221
+msgid "PIN"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:223
+msgid "Converge PIN as generated within Converge"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:228
+msgid "Demo Merchant ID"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:230
+msgid ""
+"Converge ID/Account ID as provided by Elavon for your demo account.  This "
+"will be six digits long, and start with the number 5 or 6."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:235
+msgid "Demo User ID"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:237
+msgid "Converge demo user ID as configured on Converge"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:242
+msgid "Demo PIN"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:244
+msgid "Converge demo PIN as generated within Converge"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:249
+msgid "Debug Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:251
+msgid ""
+"Show Detailed Error Messages and API requests / responses on the checkout "
+"page and/or save them to the log for debugging purposes."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:254
+msgid "Off"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:255
+msgid "Show on Checkout Page"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:256
+msgid "Save to Log"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:257
+msgid "Both"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:358
+msgid "Credit Card number"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:362
+msgid "Expiration date"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:364
+msgid "Month"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:370
+msgid "Year"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:381
+msgid "Card security code"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:409
+msgid "Elavon VM Connection error %1$s: %2$s"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:411
+#: includes/class-wc-gateway-elavon-vm.php:498
+msgid "An error occurred, please try again or try an alternate form of payment"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:433
+#. translators: Placeholders: %1$s - card number, %2$s - card expiration date
+msgid "Credit Card Transaction Approved: %1$s (%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:439
+#. translators: Placeholders: %1$s - card number, %2$s - card expiration date
+msgid "Credit Card Authorization Approved: %1$s (%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:474
+#. translators: Placeholders: %1$s - error code, %2$s - error message
+msgid "Elavon VM Credit Card payment failed (Result: [%1$s] - \"%2$s\")."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:480
+#. translators: Placeholders: %1$s - error code, %2$s - error name, %3$s -
+#. error message
+msgid "Elavon VM Credit Card payment failed (Result: [%1$s] %2$s - \"%3$s\")."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:489
+msgid ""
+"Voice authorization required to complete transaction, please call your "
+"merchant account."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:503
+msgid ""
+"This transaction request has not been approved. You may elect to use "
+"another form of payment to complete this transaction or contact customer "
+"service for additional options."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:519
+msgid "Connection error"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:569
+#. translators: Placeholders: %1$s - billing field name, %2$d - maximum allowed
+#. characters
+msgid ""
+"The billing %1$s is too long, %2$d characters maximum are allowed.  Please "
+"fix the %1$s and try again."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:579
+#. translators: Placeholders: %1$s - field name, %2$d - maximum allowed
+#. characters
+msgid ""
+"The %1$s is too long, %2$d characters maximum are allowed.  Please fix the "
+"%1$s and try again."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:594
+msgid "Card security code is missing"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:599
+msgid "Card security code is invalid (only digits are allowed)"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:604
+msgid "Card security code is invalid (wrong length)"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:620
+msgid "Card expiration date is invalid"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:628
+msgid "Card number is invalid"
+msgstr ""
+
+#: woocommerce-gateway-elavon.php:44
+msgid "WooCommerce Elavon VM Gateway"
+msgstr ""
+
+#: woocommerce-gateway-elavon.php:240
+#. translators: Placeholder: %1$s - <strong>, %2$s - </strong>
+msgid ""
+"%1$sElavon Error%2$s: WooCommerce is not being forced over SSL; your "
+"customer's payment data is at risk."
+msgstr ""
+
+#: woocommerce-gateway-elavon.php:276
+msgid "WooCommerce Elavon"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Elavon Converge (formerly VM) Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/elavon-vm-payment-gateway/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds the Elavon Converge (Virtual Merchant) Gateway to your WooCommerce "
+"website. Requires an SSL certificate."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes / SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com/"
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:448
+msgctxt "Supports credit card authorization"
+msgid "Authorization only transaction."
+msgstr ""
+
+#: includes/class-wc-gateway-elavon-vm.php:675
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""

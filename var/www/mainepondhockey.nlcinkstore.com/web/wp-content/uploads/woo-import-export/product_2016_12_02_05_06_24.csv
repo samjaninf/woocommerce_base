@@ -1,0 +1,329 @@
+Id,"Product Name","Created Date",Description,"Product Type",Categories,Price,"Short Description","Product Status",Permalink,Tags,SKU,"Sale Price",Visibility,"On Sale","Stock Status","Regular Price","Total Sales",Downloadable,Virtual,"Purchase Note",Weight,Length,Width,Height,Unit,"Sold Individually","Manage Stock",Stock,"Backorders Allowed",Backorders,Purchaseable,Featured,"Is Taxable","Tax Status","Tax Class","Product Images","Product Image Set","Download Limit","Download Expiry","Downloadable Files","Download Type","Product URL","Button Text","Shipping Required","Shipping Taxable","Shipping Class","Shipping Class Id","Comment Status","Average Rating","Rating Count","Related Ids","Upsell Ids","Cross Sell Ids",Attributes,"Custom Fields","Product Parent id","Variation Description","Menu Order","Comment Status","Ping Status"
+12,"Gildan Softstyle® 4.5 oz. Long-Sleeve T-Shirt","2016-11-28 15:37:24","Features:
+<ul>
+ 	<li>100% preshrunk cotton</li>
+ 	<li>seamless double-needle stitched collar</li>
+ 	<li>taped neck and shoulders</li>
+ 	<li>double-needle stitched sleeves and bottom hem</li>
+ 	<li>Sport Grey is 90% cotton, 10% polyester</li>
+ 	<li>3/4"" collar</li>
+ 	<li>hemmed sleeve</li>
+</ul>",variable,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Men"",""slug"":""men""},{""name"":""T-Shirt"",""slug"":""t-shirt""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",14.289,,publish,https://thomas2.nlcinkstore.com/product/gildan-softstyle-4-5-oz-long-sleeve-t-shirt/,"Gildan,Long Sleeve Shirt,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-G644,,visible,no,instock,,2,no,no,,1.00,12,12,6,in,no,no,,,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-G644-black.png,yes,,,a:0:{},,,,yes,yes,,,open,0.00,0,,,,"[{""name"":""pa_color""||""value"":""Black""||""position"":""0""||""is_visible"":""1""||""is_variation"":""1""||""is_taxonomy"":""1""}||{""name"":""pa_size""||""value"":""S, M, L, XL, 2XL, 3XL""||""position"":""1""||""is_visible"":""1""||""is_variation"":""1""||""is_taxonomy"":""1""}]","a:58:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:10:""_edit_last"";a:1:{i:0;s:1:""1"";}s:10:""_edit_lock"";a:1:{i:0;s:12:""1480653412:1"";}s:11:""_visibility"";a:1:{i:0;s:7:""visible"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:11:""total_sales"";a:1:{i:0;s:1:""2"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:11:""_tax_status"";a:1:{i:0;s:7:""taxable"";}s:10:""_tax_class"";a:1:{i:0;s:0:"""";}s:14:""_purchase_note"";a:1:{i:0;s:0:"""";}s:9:""_featured"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:1:""1"";}s:7:""_length"";a:1:{i:0;s:2:""12"";}s:6:""_width"";a:1:{i:0;s:2:""12"";}s:7:""_height"";a:1:{i:0;s:1:""6"";}s:4:""_sku"";a:1:{i:0;s:15:""thomas-TAF-G644"";}s:19:""_product_attributes"";a:1:{i:0;s:320:""a:2:{s:8:""pa_color"";a:6:{s:4:""name"";s:8:""pa_color"";s:5:""value"";s:0:"""";s:8:""position"";s:1:""0"";s:10:""is_visible"";i:1;s:12:""is_variation"";i:1;s:11:""is_taxonomy"";i:1;}s:7:""pa_size"";a:6:{s:4:""name"";s:7:""pa_size"";s:5:""value"";s:0:"""";s:8:""position"";s:1:""1"";s:10:""is_visible"";i:1;s:12:""is_variation"";i:1;s:11:""is_taxonomy"";i:1;}}"";}s:14:""_regular_price"";a:1:{i:0;s:0:"""";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:18:""_sold_individually"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:11:""_backorders"";a:1:{i:0;s:2:""no"";}s:6:""_stock"";a:1:{i:0;s:0:"""";}s:11:""_upsell_ids"";a:1:{i:0;s:6:""a:0:{}"";}s:14:""_crosssell_ids"";a:1:{i:0;s:6:""a:0:{}"";}s:16:""_product_version"";a:1:{i:0;s:5:""2.6.8"";}s:22:""_product_image_gallery"";a:1:{i:0;s:0:"""";}s:17:""_wpb_vc_js_status"";a:1:{i:0;s:5:""false"";}s:16:""_wc_rating_count"";a:1:{i:0;s:6:""a:0:{}"";}s:16:""_wc_review_count"";a:1:{i:0;s:1:""0"";}s:18:""_wc_average_rating"";a:1:{i:0;s:1:""0"";}s:20:""_min_variation_price"";a:1:{i:0;s:6:""14.289"";}s:20:""_max_variation_price"";a:1:{i:0;s:6:""17.289"";}s:23:""_min_price_variation_id"";a:1:{i:0;s:3:""355"";}s:23:""_max_price_variation_id"";a:1:{i:0;s:3:""353"";}s:28:""_min_variation_regular_price"";a:1:{i:0;s:6:""14.289"";}s:28:""_max_variation_regular_price"";a:1:{i:0;s:6:""17.289"";}s:31:""_min_regular_price_variation_id"";a:1:{i:0;s:3:""355"";}s:31:""_max_regular_price_variation_id"";a:1:{i:0;s:3:""353"";}s:25:""_min_variation_sale_price"";a:1:{i:0;N;}s:25:""_max_variation_sale_price"";a:1:{i:0;N;}s:28:""_min_sale_price_variation_id"";a:1:{i:0;N;}s:28:""_max_sale_price_variation_id"";a:1:{i:0;N;}s:19:""_default_attributes"";a:1:{i:0;s:55:""a:2:{s:8:""pa_color"";s:5:""black"";s:7:""pa_size"";s:1:""l"";}"";}s:26:""_wcj_crowdfunding_goal_sum"";a:1:{i:0;s:0:"""";}s:27:""_wcj_crowdfunding_startdate"";a:1:{i:0;s:0:"""";}s:26:""_wcj_crowdfunding_deadline"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}s:13:""_thumbnail_id"";a:1:{i:0;s:3:""338"";}s:38:""_wcj_custom_product_tabs_title_local_1"";a:1:{i:0;s:16:""Sizing and Specs"";}s:41:""_wcj_custom_product_tabs_priority_local_1"";a:1:{i:0;s:2:""50"";}s:40:""_wcj_custom_product_tabs_content_local_1"";a:1:{i:0;s:1780:""<table class=""specs-tab"" border=""1"">
+<p>How to measure:</p>
+<p>BODY LENGTH: Lay garment flat (face down). Measure from center back neckline seam straight down to bottom of the front hem.</p>
+<p>BODY WIDTH: Lay garment flat. 1"" below the armhole flat measure the garment across the chest.</p>
+<p>FULL BODY LENGTH: Lay garment flat(face down). Measure from center back neckline seam straight down to back bottom hem.</p>
+<p>SLEEVE LENGTH: Lay garment flat(face down). Measure from center back neck to outer edge of shoulder seam, then along outer edge to sleeve end.</p>
+
+<tbody>
+<tr class=""tr-row1"">
+<td class=""td-col1""></td>
+<td class=""td-cols"">S</td>
+<td class=""td-cols"">M</td>
+<td class=""td-cols"">L</td>
+<td class=""td-cols"">XL</td>
+<td class=""td-cols"">2XL</td>
+<td class=""td-cols"">3XL</td>
+</tr>
+<tr>
+<td class=""td-col1"">BODY LENGTH</td>
+<td class=""td-cols"">27</td>
+<td class=""td-cols"">28</td>
+<td class=""td-cols"">29</td>
+<td class=""td-cols"">30</td>
+<td class=""td-cols"">31</td>
+<td class=""td-cols"">32</td>
+<td class=""td-cols""></td>
+</tr>
+<tr>
+<td class=""td-col1"">BODY WIDTH</td>
+<td class=""td-cols"">18</td>
+<td class=""td-cols"">20</td>
+<td class=""td-cols"">22</td>
+<td class=""td-cols"">24</td>
+<td class=""td-cols"">26</td>
+<td class=""td-cols"">28</td>
+</tr>
+<tr>
+<td class=""td-col1"">FULL BODY LENGTH</td>
+<td class=""td-cols"">27</td>
+<td class=""td-cols"">28</td>
+<td class=""td-cols"">29</td>
+<td class=""td-cols"">30</td>
+<td class=""td-cols"">31</td>
+<td class=""td-cols"">32</td>
+</tr>
+<tr>
+<td class=""td-col1"">SLEEVE LENGTH</td>
+<td class=""td-cols"">31.75</td>
+<td class=""td-cols"">33.5</td>
+<td class=""td-cols"">35.25</td>
+<td class=""td-cols"">36.75</td>
+<td class=""td-cols"">38.25</td>
+<td class=""td-cols"">40</td>
+</tr>
+</tbody>
+</table>"";}s:43:""_wcj_custom_product_tabs_local_total_number"";a:1:{i:0;s:1:""1"";}s:12:""_wp_old_slug"";a:1:{i:0;s:17:""long-sleeve-shirt"";}s:6:""_price"";a:2:{i:0;s:6:""14.289"";i:1;s:6:""17.289"";}}",0,,0,open,open
+353,"Gildan Softstyle® 4.5 oz. Long-Sleeve T-Shirt","2016-11-28 15:37:24","Features:
+<ul>
+ 	<li>100% preshrunk cotton</li>
+ 	<li>seamless double-needle stitched collar</li>
+ 	<li>taped neck and shoulders</li>
+ 	<li>double-needle stitched sleeves and bottom hem</li>
+ 	<li>Sport Grey is 90% cotton, 10% polyester</li>
+ 	<li>3/4"" collar</li>
+ 	<li>hemmed sleeve</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Men"",""slug"":""men""},{""name"":""T-Shirt"",""slug"":""t-shirt""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",17.289,,publish,https://thomas2.nlcinkstore.com/product/gildan-softstyle-4-5-oz-long-sleeve-t-shirt/?attribute_pa_color=black&attribute_pa_size=3xl,"Gildan,Long Sleeve Shirt,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-G644,,visible,no,instock,17.289,2,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-G644-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,,,,[],"a:22:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:3:""3xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""17.289"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""17.289"";}s:4:""_sku"";a:1:{i:0;s:0:"""";}s:13:""_thumbnail_id"";a:1:{i:0;s:1:""0"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:0:"""";}s:7:""_length"";a:1:{i:0;s:0:"""";}s:6:""_width"";a:1:{i:0;s:0:"""";}s:7:""_height"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:15:""_download_limit"";a:1:{i:0;s:0:"""";}s:16:""_download_expiry"";a:1:{i:0;s:0:"""";}s:19:""_downloadable_files"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}}",12,,0,open,open
+354,"Gildan Softstyle® 4.5 oz. Long-Sleeve T-Shirt","2016-11-28 15:37:24","Features:
+<ul>
+ 	<li>100% preshrunk cotton</li>
+ 	<li>seamless double-needle stitched collar</li>
+ 	<li>taped neck and shoulders</li>
+ 	<li>double-needle stitched sleeves and bottom hem</li>
+ 	<li>Sport Grey is 90% cotton, 10% polyester</li>
+ 	<li>3/4"" collar</li>
+ 	<li>hemmed sleeve</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Men"",""slug"":""men""},{""name"":""T-Shirt"",""slug"":""t-shirt""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",16.289,,publish,https://thomas2.nlcinkstore.com/product/gildan-softstyle-4-5-oz-long-sleeve-t-shirt/?attribute_pa_color=black&attribute_pa_size=2xl,"Gildan,Long Sleeve Shirt,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-G644,,visible,no,instock,16.289,2,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-G644-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,,,,[],"a:22:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:3:""2xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""16.289"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""16.289"";}s:4:""_sku"";a:1:{i:0;s:0:"""";}s:13:""_thumbnail_id"";a:1:{i:0;s:1:""0"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:0:"""";}s:7:""_length"";a:1:{i:0;s:0:"""";}s:6:""_width"";a:1:{i:0;s:0:"""";}s:7:""_height"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:15:""_download_limit"";a:1:{i:0;s:0:"""";}s:16:""_download_expiry"";a:1:{i:0;s:0:"""";}s:19:""_downloadable_files"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}}",12,,0,open,open
+355,"Gildan Softstyle® 4.5 oz. Long-Sleeve T-Shirt","2016-11-28 15:37:24","Features:
+<ul>
+ 	<li>100% preshrunk cotton</li>
+ 	<li>seamless double-needle stitched collar</li>
+ 	<li>taped neck and shoulders</li>
+ 	<li>double-needle stitched sleeves and bottom hem</li>
+ 	<li>Sport Grey is 90% cotton, 10% polyester</li>
+ 	<li>3/4"" collar</li>
+ 	<li>hemmed sleeve</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Men"",""slug"":""men""},{""name"":""T-Shirt"",""slug"":""t-shirt""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",14.289,,publish,https://thomas2.nlcinkstore.com/product/gildan-softstyle-4-5-oz-long-sleeve-t-shirt/?attribute_pa_color=black&attribute_pa_size=xl,"Gildan,Long Sleeve Shirt,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-G644,,visible,no,instock,14.289,2,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-G644-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,,,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:2:""xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""14.289"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""14.289"";}}",12,,0,open,open
+356,"Gildan Softstyle® 4.5 oz. Long-Sleeve T-Shirt","2016-11-28 15:37:24","Features:
+<ul>
+ 	<li>100% preshrunk cotton</li>
+ 	<li>seamless double-needle stitched collar</li>
+ 	<li>taped neck and shoulders</li>
+ 	<li>double-needle stitched sleeves and bottom hem</li>
+ 	<li>Sport Grey is 90% cotton, 10% polyester</li>
+ 	<li>3/4"" collar</li>
+ 	<li>hemmed sleeve</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Men"",""slug"":""men""},{""name"":""T-Shirt"",""slug"":""t-shirt""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",14.289,,publish,https://thomas2.nlcinkstore.com/product/gildan-softstyle-4-5-oz-long-sleeve-t-shirt/?attribute_pa_color=black&attribute_pa_size=l,"Gildan,Long Sleeve Shirt,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-G644,,visible,no,instock,14.289,2,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-G644-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,,,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""l"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""14.289"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""14.289"";}}",12,,0,open,open
+357,"Gildan Softstyle® 4.5 oz. Long-Sleeve T-Shirt","2016-11-28 15:37:24","Features:
+<ul>
+ 	<li>100% preshrunk cotton</li>
+ 	<li>seamless double-needle stitched collar</li>
+ 	<li>taped neck and shoulders</li>
+ 	<li>double-needle stitched sleeves and bottom hem</li>
+ 	<li>Sport Grey is 90% cotton, 10% polyester</li>
+ 	<li>3/4"" collar</li>
+ 	<li>hemmed sleeve</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Men"",""slug"":""men""},{""name"":""T-Shirt"",""slug"":""t-shirt""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",14.289,,publish,https://thomas2.nlcinkstore.com/product/gildan-softstyle-4-5-oz-long-sleeve-t-shirt/?attribute_pa_color=black&attribute_pa_size=m,"Gildan,Long Sleeve Shirt,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-G644,,visible,no,instock,14.289,2,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-G644-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,,,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""m"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""14.289"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""14.289"";}}",12,,0,open,open
+358,"Gildan Softstyle® 4.5 oz. Long-Sleeve T-Shirt","2016-11-28 15:37:24","Features:
+<ul>
+ 	<li>100% preshrunk cotton</li>
+ 	<li>seamless double-needle stitched collar</li>
+ 	<li>taped neck and shoulders</li>
+ 	<li>double-needle stitched sleeves and bottom hem</li>
+ 	<li>Sport Grey is 90% cotton, 10% polyester</li>
+ 	<li>3/4"" collar</li>
+ 	<li>hemmed sleeve</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Men"",""slug"":""men""},{""name"":""T-Shirt"",""slug"":""t-shirt""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",14.289,,publish,https://thomas2.nlcinkstore.com/product/gildan-softstyle-4-5-oz-long-sleeve-t-shirt/?attribute_pa_color=black&attribute_pa_size=s,"Gildan,Long Sleeve Shirt,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-G644,,visible,no,instock,14.289,2,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-G644-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,,,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""s"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""14.289"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""14.289"";}}",12,,0,open,open
+222,"Track & Field Player Pack (Men's)","2016-12-01 19:45:49",,composite,"[{""name"":""Team Player Packs"",""slug"":""team-player-packs""}]",0,,publish,https://thomas2.nlcinkstore.com/product/track-field-player-pack-mens/,,,,visible,no,instock,0,0,no,no,,,,,,in,no,no,,,no,yes,no,yes,taxable,,,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,,,,,"a:50:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:10:""_edit_last"";a:1:{i:0;s:1:""1"";}s:10:""_edit_lock"";a:1:{i:0;s:12:""1480626540:1"";}s:11:""_visibility"";a:1:{i:0;s:7:""visible"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:11:""total_sales"";a:1:{i:0;s:1:""0"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:11:""_tax_status"";a:1:{i:0;s:7:""taxable"";}s:10:""_tax_class"";a:1:{i:0;s:0:"""";}s:14:""_purchase_note"";a:1:{i:0;s:0:"""";}s:9:""_featured"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:0:"""";}s:7:""_length"";a:1:{i:0;s:0:"""";}s:6:""_width"";a:1:{i:0;s:0:"""";}s:7:""_height"";a:1:{i:0;s:0:"""";}s:4:""_sku"";a:1:{i:0;s:0:"""";}s:19:""_product_attributes"";a:1:{i:0;s:6:""a:0:{}"";}s:14:""_regular_price"";a:1:{i:0;s:0:"""";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""14.289"";}s:18:""_sold_individually"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:11:""_backorders"";a:1:{i:0;s:2:""no"";}s:6:""_stock"";a:1:{i:0;s:0:"""";}s:11:""_upsell_ids"";a:1:{i:0;s:6:""a:0:{}"";}s:14:""_crosssell_ids"";a:1:{i:0;s:6:""a:0:{}"";}s:16:""_product_version"";a:1:{i:0;s:5:""2.6.8"";}s:24:""_per_product_pricing_bto"";a:1:{i:0;s:3:""yes"";}s:25:""_per_product_shipping_bto"";a:1:{i:0;s:2:""no"";}s:10:""_bto_style"";a:1:{i:0;s:19:""paged-componentized"";}s:19:""_bto_selection_mode"";a:1:{i:0;s:9:""dropdowns"";}s:22:""_product_image_gallery"";a:1:{i:0;s:0:"""";}s:17:""_wpb_vc_js_status"";a:1:{i:0;s:5:""false"";}s:27:""_yith_wcpb_per_item_pricing"";a:1:{i:0;s:2:""no"";}s:31:""_yith_wcpb_non_bundled_shipping"";a:1:{i:0;s:2:""no"";}s:34:""_yith_wcpb_bundle_advanced_options"";a:1:{i:0;s:42:""a:2:{s:3:""min"";s:1:""0"";s:3:""max"";s:1:""0"";}"";}s:9:""_bto_data"";a:1:{i:0;s:1004:""a:2:{i:1480622328;a:16:{s:12:""component_id"";s:10:""1480622328"";s:10:""query_type"";s:11:""product_ids"";s:12:""assigned_ids"";a:1:{i:0;i:57;}s:10:""default_id"";s:2:""57"";s:5:""title"";s:16:""Hoodie Required "";s:11:""description"";s:0:"""";s:12:""quantity_min"";i:1;s:12:""quantity_max"";i:2;s:8:""discount"";s:0:"""";s:8:""optional"";s:2:""no"";s:18:""hide_product_title"";s:2:""no"";s:24:""hide_product_description"";s:2:""no"";s:22:""hide_product_thumbnail"";s:2:""no"";s:12:""show_orderby"";s:2:""no"";s:12:""show_filters"";s:2:""no"";s:8:""position"";i:0;}i:1480622329;a:16:{s:12:""component_id"";s:10:""1480622329"";s:10:""query_type"";s:11:""product_ids"";s:12:""assigned_ids"";a:1:{i:0;i:12;}s:10:""default_id"";s:2:""12"";s:5:""title"";s:5:""Shirt"";s:11:""description"";s:0:"""";s:12:""quantity_min"";i:1;s:12:""quantity_max"";i:1;s:8:""discount"";s:0:"""";s:8:""optional"";s:2:""no"";s:18:""hide_product_title"";s:2:""no"";s:24:""hide_product_description"";s:2:""no"";s:22:""hide_product_thumbnail"";s:2:""no"";s:12:""show_orderby"";s:2:""no"";s:12:""show_filters"";s:2:""no"";s:8:""position"";i:1;}}"";}s:18:""_bto_scenario_data"";a:1:{i:0;s:6:""a:0:{}"";}s:16:""_wc_rating_count"";a:1:{i:0;s:6:""a:0:{}"";}s:18:""_wc_average_rating"";a:1:{i:0;s:1:""0"";}s:16:""_wc_review_count"";a:1:{i:0;s:1:""0"";}s:19:""_base_regular_price"";a:1:{i:0;s:0:"""";}s:16:""_base_sale_price"";a:1:{i:0;s:0:"""";}s:27:""_base_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:25:""_base_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:11:""_base_price"";a:1:{i:0;s:0:"""";}s:20:""_bto_hide_shop_price"";a:1:{i:0;s:2:""no"";}}",0,,0,open,open
+359,"J America Sport Lace Hood","2016-12-02 04:45:12","Features:
+<ul>
+ 	<li>10 oz., 80% ringspun cotton, 20% polyester</li>
+ 	<li>jersey-lined three-piece hood</li>
+ 	<li>split front placket with six sewn eyelets</li>
+ 	<li>thick flat White drawcord with Grey ticking</li>
+ 	<li>sport shoulder panel</li>
+ 	<li>front pouch pocket; custom color laces - JA8831</li>
+ 	<li>spandex blend ribbed cuffs, waistband and side gusset panels</li>
+</ul>",variable,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Hoodie"",""slug"":""hoodie""},{""name"":""Men"",""slug"":""men""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",32.989,,publish,https://thomas2.nlcinkstore.com/product/j-america-sport-lace-hood/,"Hoodie,J America,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-ja8830,,visible,no,instock,,0,no,no,,1.00,12,12,6,in,no,no,,,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-JA8830-black.png,yes,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-G644,thomas-TAF-bd4107",,,"[{""name"":""pa_color""||""value"":""Black""||""position"":""0""||""is_visible"":""1""||""is_variation"":""1""||""is_taxonomy"":""1""}||{""name"":""pa_size""||""value"":""S, M, L, XL, 2XL, 3XL""||""position"":""1""||""is_visible"":""1""||""is_variation"":""1""||""is_taxonomy"":""1""}]","a:58:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:10:""_edit_last"";a:1:{i:0;s:1:""1"";}s:10:""_edit_lock"";a:1:{i:0;s:12:""1480655015:1"";}s:11:""_visibility"";a:1:{i:0;s:7:""visible"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:11:""_tax_status"";a:1:{i:0;s:7:""taxable"";}s:10:""_tax_class"";a:1:{i:0;s:0:"""";}s:14:""_purchase_note"";a:1:{i:0;s:0:"""";}s:9:""_featured"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:1:""1"";}s:7:""_length"";a:1:{i:0;s:2:""12"";}s:6:""_width"";a:1:{i:0;s:2:""12"";}s:7:""_height"";a:1:{i:0;s:1:""6"";}s:19:""_product_attributes"";a:1:{i:0;s:320:""a:2:{s:8:""pa_color"";a:6:{s:4:""name"";s:8:""pa_color"";s:5:""value"";s:0:"""";s:8:""position"";s:1:""0"";s:10:""is_visible"";i:1;s:12:""is_variation"";i:1;s:11:""is_taxonomy"";i:1;}s:7:""pa_size"";a:6:{s:4:""name"";s:7:""pa_size"";s:5:""value"";s:0:"""";s:8:""position"";s:1:""1"";s:10:""is_visible"";i:1;s:12:""is_variation"";i:1;s:11:""is_taxonomy"";i:1;}}"";}s:14:""_regular_price"";a:1:{i:0;s:0:"""";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:18:""_sold_individually"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:11:""_backorders"";a:1:{i:0;s:2:""no"";}s:6:""_stock"";a:1:{i:0;s:0:"""";}s:11:""_upsell_ids"";a:1:{i:0;s:6:""a:0:{}"";}s:14:""_crosssell_ids"";a:1:{i:0;s:6:""a:0:{}"";}s:16:""_product_version"";a:1:{i:0;s:5:""2.6.8"";}s:22:""_product_image_gallery"";a:1:{i:0;s:0:"""";}s:17:""_wpb_vc_js_status"";a:1:{i:0;s:5:""false"";}s:20:""_min_variation_price"";a:1:{i:0;s:6:""32.989"";}s:20:""_max_variation_price"";a:1:{i:0;s:6:""35.989"";}s:23:""_min_price_variation_id"";a:1:{i:0;s:3:""362"";}s:23:""_max_price_variation_id"";a:1:{i:0;s:3:""360"";}s:28:""_min_variation_regular_price"";a:1:{i:0;s:6:""32.989"";}s:28:""_max_variation_regular_price"";a:1:{i:0;s:6:""35.989"";}s:31:""_min_regular_price_variation_id"";a:1:{i:0;s:3:""362"";}s:31:""_max_regular_price_variation_id"";a:1:{i:0;s:3:""360"";}s:25:""_min_variation_sale_price"";a:1:{i:0;N;}s:25:""_max_variation_sale_price"";a:1:{i:0;N;}s:28:""_min_sale_price_variation_id"";a:1:{i:0;N;}s:28:""_max_sale_price_variation_id"";a:1:{i:0;N;}s:19:""_default_attributes"";a:1:{i:0;s:55:""a:2:{s:8:""pa_color"";s:5:""black"";s:7:""pa_size"";s:1:""l"";}"";}s:26:""_wcj_crowdfunding_goal_sum"";a:1:{i:0;s:0:"""";}s:27:""_wcj_crowdfunding_startdate"";a:1:{i:0;s:0:"""";}s:26:""_wcj_crowdfunding_deadline"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}s:13:""_thumbnail_id"";a:1:{i:0;s:3:""340"";}s:38:""_wcj_custom_product_tabs_title_local_1"";a:1:{i:0;s:16:""Sizing and Specs"";}s:41:""_wcj_custom_product_tabs_priority_local_1"";a:1:{i:0;s:2:""50"";}s:40:""_wcj_custom_product_tabs_content_local_1"";a:1:{i:0;s:1928:""How to measure:BODY LENGTH: Lay garment flat (face down). Measure from center back neckline seam straight down to bottom of the front hem.BODY WIDTH: Lay garment flat. 1"" below the armhole flat measure the garment across the chest.FULL BODY LENGTH: Lay garment flat(face down). Measure from center back neckline seam straight down to back bottom hem.SLEEVE LENGTH: Lay garment flat(face down). Measure from center back neck to outer edge of shoulder seam, then along outer edge to sleeve end.
+<table class=""specs-tab"" border=""1"" width=""460"">
+<tbody>
+<tr class=""tr-row1"">
+<td class=""td-col1""></td>
+<td class=""td-cols"">XS</td>
+<td class=""td-cols"">S</td>
+<td class=""td-cols"">M</td>
+<td class=""td-cols"">L</td>
+<td class=""td-cols"">XL</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+</tr>
+<tr>
+<td class=""td-col1"">BODY LENGTH</td>
+<td class=""td-cols"">26</td>
+<td class=""td-cols"">28</td>
+<td class=""td-cols"">29.5</td>
+<td class=""td-cols"">31</td>
+<td class=""td-cols"">32.5</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+</tr>
+<tr>
+<td class=""td-col1"">BODY WIDTH</td>
+<td class=""td-cols"">19</td>
+<td class=""td-cols"">21</td>
+<td class=""td-cols"">22.5</td>
+<td class=""td-cols"">24</td>
+<td class=""td-cols"">25.5</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+</tr>
+<tr>
+<td class=""td-col1"">SLEEVE LENGTH</td>
+<td class=""td-cols"">33</td>
+<td class=""td-cols"">35</td>
+<td class=""td-cols"">36</td>
+<td class=""td-cols"">37</td>
+<td class=""td-cols"">38</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+<td class=""td-cols"">-</td>
+</tr>
+</tbody>
+</table>
+"";}s:43:""_wcj_custom_product_tabs_local_total_number"";a:1:{i:0;s:1:""1"";}s:12:""_wp_old_slug"";a:1:{i:0;s:17:""long-sleeve-shirt"";}s:11:""total_sales"";a:1:{i:0;s:1:""0"";}s:4:""_sku"";a:1:{i:0;s:17:""thomas-TAF-ja8830"";}s:16:""_wc_rating_count"";a:1:{i:0;s:6:""a:0:{}"";}s:18:""_wc_average_rating"";a:1:{i:0;s:1:""0"";}s:16:""_wc_review_count"";a:1:{i:0;s:1:""0"";}s:6:""_price"";a:2:{i:0;s:6:""32.989"";i:1;s:6:""35.989"";}}",0,,0,open,open
+360,"J America Sport Lace Hood","2016-12-02 04:45:12","Features:
+<ul>
+ 	<li>10 oz., 80% ringspun cotton, 20% polyester</li>
+ 	<li>jersey-lined three-piece hood</li>
+ 	<li>split front placket with six sewn eyelets</li>
+ 	<li>thick flat White drawcord with Grey ticking</li>
+ 	<li>sport shoulder panel</li>
+ 	<li>front pouch pocket; custom color laces - JA8831</li>
+ 	<li>spandex blend ribbed cuffs, waistband and side gusset panels</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Hoodie"",""slug"":""hoodie""},{""name"":""Men"",""slug"":""men""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",35.989,,publish,https://thomas2.nlcinkstore.com/product/j-america-sport-lace-hood/?attribute_pa_color=black&attribute_pa_size=3xl,"Hoodie,J America,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-ja8830,,visible,no,instock,35.989,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-JA8830-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-bd4107,thomas-TAF-G644",,,[],"a:22:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:3:""3xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""35.989"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""35.989"";}s:13:""_thumbnail_id"";a:1:{i:0;s:1:""0"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:0:"""";}s:7:""_length"";a:1:{i:0;s:0:"""";}s:6:""_width"";a:1:{i:0;s:0:"""";}s:7:""_height"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:15:""_download_limit"";a:1:{i:0;s:0:"""";}s:16:""_download_expiry"";a:1:{i:0;s:0:"""";}s:19:""_downloadable_files"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}s:4:""_sku"";a:1:{i:0;s:0:"""";}}",359,,0,open,open
+361,"J America Sport Lace Hood","2016-12-02 04:45:12","Features:
+<ul>
+ 	<li>10 oz., 80% ringspun cotton, 20% polyester</li>
+ 	<li>jersey-lined three-piece hood</li>
+ 	<li>split front placket with six sewn eyelets</li>
+ 	<li>thick flat White drawcord with Grey ticking</li>
+ 	<li>sport shoulder panel</li>
+ 	<li>front pouch pocket; custom color laces - JA8831</li>
+ 	<li>spandex blend ribbed cuffs, waistband and side gusset panels</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Hoodie"",""slug"":""hoodie""},{""name"":""Men"",""slug"":""men""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",34.989,,publish,https://thomas2.nlcinkstore.com/product/j-america-sport-lace-hood/?attribute_pa_color=black&attribute_pa_size=2xl,"Hoodie,J America,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-ja8830,,visible,no,instock,34.989,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-JA8830-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-bd4107,thomas-TAF-G644",,,[],"a:22:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:3:""2xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""34.989"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""34.989"";}s:13:""_thumbnail_id"";a:1:{i:0;s:1:""0"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:0:"""";}s:7:""_length"";a:1:{i:0;s:0:"""";}s:6:""_width"";a:1:{i:0;s:0:"""";}s:7:""_height"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:15:""_download_limit"";a:1:{i:0;s:0:"""";}s:16:""_download_expiry"";a:1:{i:0;s:0:"""";}s:19:""_downloadable_files"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}s:4:""_sku"";a:1:{i:0;s:0:"""";}}",359,,0,open,open
+362,"J America Sport Lace Hood","2016-12-02 04:45:12","Features:
+<ul>
+ 	<li>10 oz., 80% ringspun cotton, 20% polyester</li>
+ 	<li>jersey-lined three-piece hood</li>
+ 	<li>split front placket with six sewn eyelets</li>
+ 	<li>thick flat White drawcord with Grey ticking</li>
+ 	<li>sport shoulder panel</li>
+ 	<li>front pouch pocket; custom color laces - JA8831</li>
+ 	<li>spandex blend ribbed cuffs, waistband and side gusset panels</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Hoodie"",""slug"":""hoodie""},{""name"":""Men"",""slug"":""men""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",32.989,,publish,https://thomas2.nlcinkstore.com/product/j-america-sport-lace-hood/?attribute_pa_color=black&attribute_pa_size=xl,"Hoodie,J America,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-ja8830,,visible,no,instock,32.989,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-JA8830-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-bd4107,thomas-TAF-G644",,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:2:""xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""32.989"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""32.989"";}}",359,,0,open,open
+363,"J America Sport Lace Hood","2016-12-02 04:45:12","Features:
+<ul>
+ 	<li>10 oz., 80% ringspun cotton, 20% polyester</li>
+ 	<li>jersey-lined three-piece hood</li>
+ 	<li>split front placket with six sewn eyelets</li>
+ 	<li>thick flat White drawcord with Grey ticking</li>
+ 	<li>sport shoulder panel</li>
+ 	<li>front pouch pocket; custom color laces - JA8831</li>
+ 	<li>spandex blend ribbed cuffs, waistband and side gusset panels</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Hoodie"",""slug"":""hoodie""},{""name"":""Men"",""slug"":""men""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",32.989,,publish,https://thomas2.nlcinkstore.com/product/j-america-sport-lace-hood/?attribute_pa_color=black&attribute_pa_size=l,"Hoodie,J America,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-ja8830,,visible,no,instock,32.989,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-JA8830-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-bd4107,thomas-TAF-G644",,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""l"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""32.989"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""32.989"";}}",359,,0,open,open
+364,"J America Sport Lace Hood","2016-12-02 04:45:12","Features:
+<ul>
+ 	<li>10 oz., 80% ringspun cotton, 20% polyester</li>
+ 	<li>jersey-lined three-piece hood</li>
+ 	<li>split front placket with six sewn eyelets</li>
+ 	<li>thick flat White drawcord with Grey ticking</li>
+ 	<li>sport shoulder panel</li>
+ 	<li>front pouch pocket; custom color laces - JA8831</li>
+ 	<li>spandex blend ribbed cuffs, waistband and side gusset panels</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Hoodie"",""slug"":""hoodie""},{""name"":""Men"",""slug"":""men""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",32.989,,publish,https://thomas2.nlcinkstore.com/product/j-america-sport-lace-hood/?attribute_pa_color=black&attribute_pa_size=m,"Hoodie,J America,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-ja8830,,visible,no,instock,32.989,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-JA8830-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-bd4107,thomas-TAF-G644",,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""m"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""32.989"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""32.989"";}}",359,,0,open,open
+365,"J America Sport Lace Hood","2016-12-02 04:45:12","Features:
+<ul>
+ 	<li>10 oz., 80% ringspun cotton, 20% polyester</li>
+ 	<li>jersey-lined three-piece hood</li>
+ 	<li>split front placket with six sewn eyelets</li>
+ 	<li>thick flat White drawcord with Grey ticking</li>
+ 	<li>sport shoulder panel</li>
+ 	<li>front pouch pocket; custom color laces - JA8831</li>
+ 	<li>spandex blend ribbed cuffs, waistband and side gusset panels</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Hoodie"",""slug"":""hoodie""},{""name"":""Men"",""slug"":""men""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""},{""name"":""Women"",""slug"":""women""}]",32.989,,publish,https://thomas2.nlcinkstore.com/product/j-america-sport-lace-hood/?attribute_pa_color=black&attribute_pa_size=s,"Hoodie,J America,Men,Thomas College,Track &amp; Field,Women",thomas-TAF-ja8830,,visible,no,instock,32.989,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-JA8830-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-bd4107,thomas-TAF-G644",,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""s"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""32.989"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""32.989"";}}",359,,0,open,open
+366,"Badger Adult B-Core 7"" Performance Shorts","2016-12-02 04:56:12","Features:
+<ul>
+ 	<li>3.5 oz., 100% polyester</li>
+ 	<li>Moisture-management/anti-microbial performance fabric</li>
+ 	<li>Athletic cut</li>
+ 	<li>2"" covered waistband and drawcord</li>
+ 	<li>7"" inseam</li>
+ 	<li>Double-needle bottom hem</li>
+ 	<li>Heat seal logo on left hip</li>
+</ul>",variable,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Badger"",""slug"":""badger""},{""name"":""Men"",""slug"":""men""},{""name"":""Shorts"",""slug"":""shorts""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""}]",15.389,,publish,https://thomas2.nlcinkstore.com/product/badger-adult-b-core-7-performance-shorts/,"Badger,Men,Shorts,Thomas College,Track &amp; Field",thomas-TAF-bd4107,,visible,no,instock,,0,no,no,,1.00,12,12,6,in,no,no,,,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-BD4107-black.png,yes,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-G644,thomas-TAF-ja8830",,,"[{""name"":""pa_color""||""value"":""Black""||""position"":""0""||""is_visible"":""1""||""is_variation"":""1""||""is_taxonomy"":""1""}||{""name"":""pa_size""||""value"":""S, M, L, XL, 2XL, 3XL""||""position"":""1""||""is_visible"":""1""||""is_variation"":""1""||""is_taxonomy"":""1""}]","a:58:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:10:""_edit_last"";a:1:{i:0;s:1:""1"";}s:10:""_edit_lock"";a:1:{i:0;s:12:""1480654949:1"";}s:11:""_visibility"";a:1:{i:0;s:7:""visible"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:11:""_tax_status"";a:1:{i:0;s:7:""taxable"";}s:10:""_tax_class"";a:1:{i:0;s:0:"""";}s:14:""_purchase_note"";a:1:{i:0;s:0:"""";}s:9:""_featured"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:1:""1"";}s:7:""_length"";a:1:{i:0;s:2:""12"";}s:6:""_width"";a:1:{i:0;s:2:""12"";}s:7:""_height"";a:1:{i:0;s:1:""6"";}s:19:""_product_attributes"";a:1:{i:0;s:320:""a:2:{s:8:""pa_color"";a:6:{s:4:""name"";s:8:""pa_color"";s:5:""value"";s:0:"""";s:8:""position"";s:1:""0"";s:10:""is_visible"";i:1;s:12:""is_variation"";i:1;s:11:""is_taxonomy"";i:1;}s:7:""pa_size"";a:6:{s:4:""name"";s:7:""pa_size"";s:5:""value"";s:0:"""";s:8:""position"";s:1:""1"";s:10:""is_visible"";i:1;s:12:""is_variation"";i:1;s:11:""is_taxonomy"";i:1;}}"";}s:14:""_regular_price"";a:1:{i:0;s:0:"""";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:18:""_sold_individually"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:11:""_backorders"";a:1:{i:0;s:2:""no"";}s:6:""_stock"";a:1:{i:0;s:0:"""";}s:11:""_upsell_ids"";a:1:{i:0;s:6:""a:0:{}"";}s:14:""_crosssell_ids"";a:1:{i:0;s:6:""a:0:{}"";}s:16:""_product_version"";a:1:{i:0;s:5:""2.6.8"";}s:22:""_product_image_gallery"";a:1:{i:0;s:0:"""";}s:17:""_wpb_vc_js_status"";a:1:{i:0;s:5:""false"";}s:20:""_min_variation_price"";a:1:{i:0;s:6:""15.389"";}s:20:""_max_variation_price"";a:1:{i:0;s:6:""18.389"";}s:23:""_min_price_variation_id"";a:1:{i:0;s:3:""369"";}s:23:""_max_price_variation_id"";a:1:{i:0;s:3:""367"";}s:28:""_min_variation_regular_price"";a:1:{i:0;s:6:""15.389"";}s:28:""_max_variation_regular_price"";a:1:{i:0;s:6:""18.389"";}s:31:""_min_regular_price_variation_id"";a:1:{i:0;s:3:""369"";}s:31:""_max_regular_price_variation_id"";a:1:{i:0;s:3:""367"";}s:25:""_min_variation_sale_price"";a:1:{i:0;N;}s:25:""_max_variation_sale_price"";a:1:{i:0;N;}s:28:""_min_sale_price_variation_id"";a:1:{i:0;N;}s:28:""_max_sale_price_variation_id"";a:1:{i:0;N;}s:19:""_default_attributes"";a:1:{i:0;s:55:""a:2:{s:8:""pa_color"";s:5:""black"";s:7:""pa_size"";s:1:""l"";}"";}s:26:""_wcj_crowdfunding_goal_sum"";a:1:{i:0;s:0:"""";}s:27:""_wcj_crowdfunding_startdate"";a:1:{i:0;s:0:"""";}s:26:""_wcj_crowdfunding_deadline"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}s:13:""_thumbnail_id"";a:1:{i:0;s:3:""337"";}s:38:""_wcj_custom_product_tabs_title_local_1"";a:1:{i:0;s:16:""Sizing and Specs"";}s:41:""_wcj_custom_product_tabs_priority_local_1"";a:1:{i:0;s:2:""50"";}s:40:""_wcj_custom_product_tabs_content_local_1"";a:1:{i:0;s:537:""<p>How to measure:</p>
+<p>BODY LENGTH: Lay garment flat (face down). Measure from center back neckline seam straight down to bottom of the front hem.</p>
+<p>BODY WIDTH: Lay garment flat. 1"" below the armhole flat measure the garment across the chest.</p>
+<p>FULL BODY LENGTH: Lay garment flat(face down). Measure from center back neckline seam straight down to back bottom hem.</p>
+<p>SLEEVE LENGTH: Lay garment flat(face down). Measure from center back neck to outer edge of shoulder seam, then along outer edge to sleeve end.</p>
+"";}s:43:""_wcj_custom_product_tabs_local_total_number"";a:1:{i:0;s:1:""1"";}s:12:""_wp_old_slug"";a:1:{i:0;s:17:""long-sleeve-shirt"";}s:11:""total_sales"";a:1:{i:0;s:1:""0"";}s:4:""_sku"";a:1:{i:0;s:17:""thomas-TAF-bd4107"";}s:16:""_wc_rating_count"";a:1:{i:0;s:6:""a:0:{}"";}s:18:""_wc_average_rating"";a:1:{i:0;s:1:""0"";}s:16:""_wc_review_count"";a:1:{i:0;s:1:""0"";}s:6:""_price"";a:2:{i:0;s:6:""15.389"";i:1;s:6:""18.389"";}}",0,,0,open,open
+367,"Badger Adult B-Core 7"" Performance Shorts","2016-12-02 04:56:12","Features:
+<ul>
+ 	<li>3.5 oz., 100% polyester</li>
+ 	<li>Moisture-management/anti-microbial performance fabric</li>
+ 	<li>Athletic cut</li>
+ 	<li>2"" covered waistband and drawcord</li>
+ 	<li>7"" inseam</li>
+ 	<li>Double-needle bottom hem</li>
+ 	<li>Heat seal logo on left hip</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Badger"",""slug"":""badger""},{""name"":""Men"",""slug"":""men""},{""name"":""Shorts"",""slug"":""shorts""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""}]",18.389,,publish,https://thomas2.nlcinkstore.com/product/badger-adult-b-core-7-performance-shorts/?attribute_pa_color=black&attribute_pa_size=3xl,"Badger,Men,Shorts,Thomas College,Track &amp; Field",thomas-TAF-bd4107,,visible,no,instock,18.389,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-BD4107-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-G644,thomas-TAF-ja8830",,,[],"a:22:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:3:""3xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""18.389"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""18.389"";}s:13:""_thumbnail_id"";a:1:{i:0;s:1:""0"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:0:"""";}s:7:""_length"";a:1:{i:0;s:0:"""";}s:6:""_width"";a:1:{i:0;s:0:"""";}s:7:""_height"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:15:""_download_limit"";a:1:{i:0;s:0:"""";}s:16:""_download_expiry"";a:1:{i:0;s:0:"""";}s:19:""_downloadable_files"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}s:4:""_sku"";a:1:{i:0;s:0:"""";}}",366,,0,open,open
+368,"Badger Adult B-Core 7"" Performance Shorts","2016-12-02 04:56:12","Features:
+<ul>
+ 	<li>3.5 oz., 100% polyester</li>
+ 	<li>Moisture-management/anti-microbial performance fabric</li>
+ 	<li>Athletic cut</li>
+ 	<li>2"" covered waistband and drawcord</li>
+ 	<li>7"" inseam</li>
+ 	<li>Double-needle bottom hem</li>
+ 	<li>Heat seal logo on left hip</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Badger"",""slug"":""badger""},{""name"":""Men"",""slug"":""men""},{""name"":""Shorts"",""slug"":""shorts""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""}]",17.389,,publish,https://thomas2.nlcinkstore.com/product/badger-adult-b-core-7-performance-shorts/?attribute_pa_color=black&attribute_pa_size=2xl,"Badger,Men,Shorts,Thomas College,Track &amp; Field",thomas-TAF-bd4107,,visible,no,instock,17.389,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-BD4107-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-ja8830,thomas-TAF-G644",,,[],"a:22:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:3:""2xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""17.389"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""17.389"";}s:13:""_thumbnail_id"";a:1:{i:0;s:1:""0"";}s:8:""_virtual"";a:1:{i:0;s:2:""no"";}s:13:""_downloadable"";a:1:{i:0;s:2:""no"";}s:7:""_weight"";a:1:{i:0;s:0:"""";}s:7:""_length"";a:1:{i:0;s:0:"""";}s:6:""_width"";a:1:{i:0;s:0:"""";}s:7:""_height"";a:1:{i:0;s:0:"""";}s:13:""_manage_stock"";a:1:{i:0;s:2:""no"";}s:15:""_download_limit"";a:1:{i:0;s:0:"""";}s:16:""_download_expiry"";a:1:{i:0;s:0:"""";}s:19:""_downloadable_files"";a:1:{i:0;s:0:"""";}s:22:""_variation_description"";a:1:{i:0;s:0:"""";}s:4:""_sku"";a:1:{i:0;s:0:"""";}}",366,,0,open,open
+369,"Badger Adult B-Core 7"" Performance Shorts","2016-12-02 04:56:12","Features:
+<ul>
+ 	<li>3.5 oz., 100% polyester</li>
+ 	<li>Moisture-management/anti-microbial performance fabric</li>
+ 	<li>Athletic cut</li>
+ 	<li>2"" covered waistband and drawcord</li>
+ 	<li>7"" inseam</li>
+ 	<li>Double-needle bottom hem</li>
+ 	<li>Heat seal logo on left hip</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Badger"",""slug"":""badger""},{""name"":""Men"",""slug"":""men""},{""name"":""Shorts"",""slug"":""shorts""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""}]",15.389,,publish,https://thomas2.nlcinkstore.com/product/badger-adult-b-core-7-performance-shorts/?attribute_pa_color=black&attribute_pa_size=xl,"Badger,Men,Shorts,Thomas College,Track &amp; Field",thomas-TAF-bd4107,,visible,no,instock,15.389,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-BD4107-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-G644,thomas-TAF-ja8830",,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:2:""xl"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""15.389"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""15.389"";}}",366,,0,open,open
+370,"Badger Adult B-Core 7"" Performance Shorts","2016-12-02 04:56:12","Features:
+<ul>
+ 	<li>3.5 oz., 100% polyester</li>
+ 	<li>Moisture-management/anti-microbial performance fabric</li>
+ 	<li>Athletic cut</li>
+ 	<li>2"" covered waistband and drawcord</li>
+ 	<li>7"" inseam</li>
+ 	<li>Double-needle bottom hem</li>
+ 	<li>Heat seal logo on left hip</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Badger"",""slug"":""badger""},{""name"":""Men"",""slug"":""men""},{""name"":""Shorts"",""slug"":""shorts""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""}]",15.389,,publish,https://thomas2.nlcinkstore.com/product/badger-adult-b-core-7-performance-shorts/?attribute_pa_color=black&attribute_pa_size=l,"Badger,Men,Shorts,Thomas College,Track &amp; Field",thomas-TAF-bd4107,,visible,no,instock,15.389,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-BD4107-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-G644,thomas-TAF-ja8830",,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""l"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""15.389"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""15.389"";}}",366,,0,open,open
+371,"Badger Adult B-Core 7"" Performance Shorts","2016-12-02 04:56:12","Features:
+<ul>
+ 	<li>3.5 oz., 100% polyester</li>
+ 	<li>Moisture-management/anti-microbial performance fabric</li>
+ 	<li>Athletic cut</li>
+ 	<li>2"" covered waistband and drawcord</li>
+ 	<li>7"" inseam</li>
+ 	<li>Double-needle bottom hem</li>
+ 	<li>Heat seal logo on left hip</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Badger"",""slug"":""badger""},{""name"":""Men"",""slug"":""men""},{""name"":""Shorts"",""slug"":""shorts""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""}]",15.389,,publish,https://thomas2.nlcinkstore.com/product/badger-adult-b-core-7-performance-shorts/?attribute_pa_color=black&attribute_pa_size=m,"Badger,Men,Shorts,Thomas College,Track &amp; Field",thomas-TAF-bd4107,,visible,no,instock,15.389,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-BD4107-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-G644,thomas-TAF-ja8830",,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""m"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""15.389"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""15.389"";}}",366,,0,open,open
+372,"Badger Adult B-Core 7"" Performance Shorts","2016-12-02 04:56:12","Features:
+<ul>
+ 	<li>3.5 oz., 100% polyester</li>
+ 	<li>Moisture-management/anti-microbial performance fabric</li>
+ 	<li>Athletic cut</li>
+ 	<li>2"" covered waistband and drawcord</li>
+ 	<li>7"" inseam</li>
+ 	<li>Double-needle bottom hem</li>
+ 	<li>Heat seal logo on left hip</li>
+</ul>",variation,"[{""name"":""Apparel"",""slug"":""apparel""},{""name"":""Badger"",""slug"":""badger""},{""name"":""Men"",""slug"":""men""},{""name"":""Shorts"",""slug"":""shorts""},{""name"":""Thomas College"",""slug"":""thomas-college""},{""name"":""Track &amp; Field"",""slug"":""track-field""}]",15.389,,publish,https://thomas2.nlcinkstore.com/product/badger-adult-b-core-7-performance-shorts/?attribute_pa_color=black&attribute_pa_size=s,"Badger,Men,Shorts,Thomas College,Track &amp; Field",thomas-TAF-bd4107,,visible,no,instock,15.389,0,no,no,,1.00,12,12,6,in,no,no,,no,no,yes,no,yes,taxable,,https://thomas2.nlcinkstore.com/wp-content/uploads/2016/12/thomas-TAF-BD4107-black.png,no,,,a:0:{},,,,yes,yes,,,open,0.00,0,"thomas-TAF-ja8830,thomas-TAF-G644",,,[],"a:9:{s:17:""_vc_post_settings"";a:1:{i:0;s:30:""a:1:{s:10:""vc_grid_id"";a:0:{}}"";}s:17:""attribute_pa_size"";a:1:{i:0;s:1:""s"";}s:18:""attribute_pa_color"";a:1:{i:0;s:5:""black"";}s:13:""_stock_status"";a:1:{i:0;s:7:""instock"";}s:14:""_regular_price"";a:1:{i:0;s:6:""15.389"";}s:11:""_sale_price"";a:1:{i:0;s:0:"""";}s:22:""_sale_price_dates_from"";a:1:{i:0;s:0:"""";}s:20:""_sale_price_dates_to"";a:1:{i:0;s:0:"""";}s:6:""_price"";a:1:{i:0;s:6:""15.389"";}}",366,,0,open,open
